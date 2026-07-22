@@ -1,0 +1,1201 @@
+transaction_id,customer_id,beneficiary_id,device_id,country,amount_usd,hour,is_new_beneficiary,is_cross_border,transactions_last_60m,label_synthetic_fraud,amount_robust_z,is_odd_hour,device_customer_count,is_shared_device,beneficiary_customer_count,is_concentrated_beneficiary,high_velocity,alert_score,priority,alert_reasons
+T000010,C0015,B0250,D0005,ID,3363.714010420748,0,1,1,8,1,46.75626907331494,1,6,1,8,1,1,100.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000099,C0096,B0138,D0002,ID,2739.1629571785047,23,1,1,20,1,23.298606549082173,1,12,1,9,1,1,100.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000130,C0096,B0089,D0104,SG,30835.58533498194,1,1,1,12,1,273.2133750289505,1,9,1,9,1,1,100.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000201,C0055,B0222,D0155,DE,1760.272239617246,2,1,1,22,1,22.054930277382585,1,6,1,8,1,1,100.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000221,C0020,B0247,D0152,CN,2075.0608263400864,4,1,1,20,1,15.348375072409,1,5,1,8,1,1,100.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000258,C0016,B0118,D0049,HK,802.6542980046984,1,1,1,18,1,10.362250756320487,1,6,1,9,1,1,100.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000386,C0019,B0083,D0022,ID,8015.876794585801,4,1,1,23,1,44.18408531389877,1,8,1,10,1,1,100.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000542,C0009,B0193,D0168,ID,878.3664662624986,3,1,1,19,1,10.450755651522137,1,11,1,8,1,1,100.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000692,C0120,B0064,D0071,SG,2792.9160616891327,4,1,1,14,1,12.644040556049825,1,8,1,10,1,1,100.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000831,C0037,B0144,D0151,ID,4123.000928580706,1,1,1,9,1,54.47247432357189,1,6,1,9,1,1,100.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000848,C0008,B0138,D0016,US,2675.0749783189813,0,1,1,20,1,13.50401166005206,1,7,1,9,1,1,100.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T001058,C0116,B0170,D0006,SG,3353.6823706981286,4,1,1,11,1,9.26510031067772,1,4,1,9,1,1,100.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T001169,C0150,B0043,D0136,CN,1461.2330498788715,0,1,1,15,1,15.969812327665997,1,6,1,10,1,1,100.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000650,C0128,B0043,D0127,CN,3974.121203247537,3,1,1,10,1,6.9548587335758585,1,9,1,10,1,1,96.7,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000075,C0103,B0198,D0019,MY,8672.136920728899,23,1,1,19,1,71.1463735283411,1,9,1,5,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000086,C0106,B0013,D0065,SG,3604.137701053013,3,1,1,11,1,9.226416774603978,1,9,1,7,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000162,C0100,B0018,D0065,SG,11751.10211757146,0,1,1,17,1,107.48464367536917,1,9,1,3,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000193,C0092,B0255,D0096,SG,5436.066050193103,3,1,1,12,1,24.54404243888229,1,7,1,5,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000207,C0115,B0090,D0096,HK,21612.55841695091,1,1,1,18,1,118.4569375131501,1,7,1,6,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000210,C0117,B0074,D0148,GB,2916.421455132863,23,1,1,11,1,7.99677877085091,1,6,1,5,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000350,C0025,B0002,D0175,ID,1648.0309330763398,4,1,1,11,1,14.263896928255948,1,6,1,5,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000368,C0048,B0157,D0178,SG,3040.350679718761,23,1,1,21,1,15.150364758538416,1,8,1,4,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000373,C0062,B0191,D0037,HK,2663.041081021217,23,1,1,13,1,9.106989705770468,1,9,1,7,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000432,C0111,B0233,D0143,CN,4791.5554302242,23,1,1,9,1,36.795448562973505,1,11,1,5,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000508,C0038,B0237,D0170,SG,17717.985780540726,23,1,1,13,1,281.1274659144248,1,8,1,5,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000520,C0090,B0134,D0068,MY,15433.522231918609,1,1,1,16,1,78.19482422975993,1,6,1,7,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000576,C0057,B0034,D0084,ID,4505.32595320654,4,1,1,17,1,16.897631508858012,1,9,1,4,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000581,C0014,B0013,D0129,DE,9229.359877081495,4,1,1,15,1,87.34269800444255,1,4,1,7,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000613,C0118,B0175,D0009,SG,1471.4698959528107,0,1,1,13,1,9.102329596174624,1,5,1,6,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000669,C0138,B0008,D0027,CN,14305.73773939422,2,1,1,10,1,174.45002101931226,1,5,1,5,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000704,C0026,B0065,D0079,DE,2820.6544138670592,23,1,1,20,1,38.35417545698584,1,8,1,4,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000710,C0070,B0244,D0043,CN,3101.4307417020027,3,1,1,9,1,19.227576455130563,1,7,1,6,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000721,C0021,B0102,D0112,ID,6406.817403601644,4,1,1,8,1,62.859552290531326,1,5,1,6,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000747,C0080,B0041,D0116,TH,3510.3980599903657,1,1,1,19,1,14.654750822663527,1,4,1,4,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000750,C0024,B0084,D0020,SG,3607.39568629186,4,1,1,21,1,8.65599836158155,1,7,1,7,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000775,C0127,B0145,D0179,CN,2318.513626131208,2,1,1,14,1,18.75589014307905,1,6,1,2,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000794,C0124,B0166,D0035,ID,2042.0169130364843,1,1,1,14,1,22.86254884603364,1,10,1,3,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000805,C0111,B0207,D0054,ID,17366.787131737812,2,1,1,13,1,137.26919628473297,1,7,1,6,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000857,C0037,B0191,D0031,SG,1465.812463897617,23,1,1,19,1,18.198974638715697,1,9,1,7,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000893,C0079,B0209,D0043,NL,1928.235003580888,1,1,1,18,1,28.910235073508947,1,7,1,2,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000994,C0065,B0057,D0034,TH,5454.367989450094,2,1,1,25,1,21.27248425164994,1,12,1,4,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000998,C0055,B0223,D0172,SG,1139.236480167043,3,1,1,9,1,13.708872900431768,1,6,1,7,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T001000,C0077,B0044,D0130,US,4682.370527852889,1,1,1,10,1,52.72593581120773,1,5,1,3,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T001046,C0024,B0216,D0128,CN,7164.382974031779,1,1,1,10,1,17.91391048035668,1,6,1,2,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T001048,C0091,B0046,D0101,ID,4612.352654286048,23,1,1,11,1,19.31667730055346,1,8,1,6,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T001070,C0002,B0253,D0156,ID,2144.006717614219,1,1,1,12,1,8.841230003639291,1,9,1,5,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T001100,C0066,B0232,D0081,SG,2958.8690574751777,2,1,1,10,1,29.44900989736292,1,10,1,4,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T001126,C0127,B0214,D0038,CN,6108.967203267404,1,1,1,11,1,50.913124754466565,1,8,1,6,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T001166,C0016,B0023,D0047,CN,4224.815659877611,3,1,1,11,1,61.702282753279576,1,6,1,3,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T001173,C0059,B0016,D0124,ID,5894.091069614932,23,1,1,24,1,467.5781175751218,1,5,1,6,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T001193,C0026,B0160,D0177,SG,2506.92595347812,3,1,1,10,1,33.939198479469894,1,7,1,4,0,1,90.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000284,C0074,B0030,D0146,ID,852.0401840050057,2,1,1,11,1,6.233198216067508,1,7,1,6,0,1,84.5,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000665,C0090,B0217,D0127,ID,1331.2882011403965,2,1,1,14,1,5.7062031829690385,1,9,1,3,0,1,82.8,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000726,C0018,B0035,D0160,ID,780.6309355622758,2,1,1,16,1,4.875953319846202,1,5,1,6,0,1,80.2,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000050,C0117,B0254,D0031,US,1786.415100928813,4,1,1,17,1,4.455006996173254,1,9,1,5,0,1,78.9,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000560,C0128,B0151,D0086,ID,2686.384269065448,23,1,1,16,1,4.400366168121418,1,9,1,2,0,1,78.8,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T001142,C0051,B0103,D0104,ID,635.0464835375254,2,1,1,11,1,1.0593513876632175,1,9,1,10,1,1,78.3,Critical,"high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000276,C0073,B0079,D0107,HK,3489.1315637486277,4,1,1,19,1,4.2066873346299,1,4,1,7,0,1,78.1,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000939,C0070,B0140,D0154,GB,708.3193188254965,3,1,1,22,1,3.6754649344618686,1,5,1,4,0,1,76.5,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000227,C0122,B0174,D0176,DE,1123.7922642814167,23,1,1,19,1,3.5128856115251534,1,7,1,3,0,1,76.0,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000763,C0143,B0037,D0002,US,1565.774642390944,0,1,1,22,1,3.2235174256631303,1,12,1,2,0,1,75.1,Critical,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T001163,C0128,B0250,D0076,ID,427.77248844059545,0,1,1,20,1,-0.08005747175700949,1,8,1,8,1,1,75.0,Critical,"high velocity, new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000687,C0062,B0169,D0033,US,1044.443781958512,3,1,1,11,1,3.0917062091573677,1,5,1,6,0,1,74.7,High,"unusual amount, high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000052,C0030,B0107,D0160,MY,772.7486198637426,3,1,1,21,1,2.733723037301811,1,5,1,6,0,1,73.5,High,"high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T001161,C0088,B0169,D0013,US,746.84898826596,3,1,1,18,1,2.0170436322271126,1,9,1,6,0,1,71.3,High,"high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000078,C0035,B0201,D0032,SG,1571.48,19,1,1,2,0,9.114007139092521,0,6,1,8,1,0,70.0,High,"unusual amount, new beneficiary, cross-border, shared device, beneficiary concentration"
+T000793,C0109,B0075,D0121,CN,8401.138818353089,2,1,1,7,1,51.78448243613271,1,6,1,6,0,0,70.0,High,"unusual amount, new beneficiary, cross-border, odd-hour activity, shared device"
+T000915,C0089,B0193,D0073,NL,2297.33,0,1,0,3,0,35.08303062796209,1,9,1,8,1,0,70.0,High,"unusual amount, new beneficiary, odd-hour activity, shared device, beneficiary concentration"
+T001146,C0073,B0067,D0113,SG,1087.2162229621808,1,1,1,11,1,0.519532732518685,1,10,1,5,0,1,66.6,High,"high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000345,C0136,B0060,D0036,SG,177.91430641790774,2,1,1,15,1,0.29041479196538134,1,7,1,5,0,1,65.9,High,"high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000923,C0067,B0151,D0141,SG,482.3823084608532,3,1,1,9,1,0.0,1,6,1,2,0,1,65.0,High,"high velocity, new beneficiary, cross-border, odd-hour activity, shared device"
+T000522,C0022,B0193,D0138,ID,640.21,12,1,1,1,0,6.253636969696971,0,8,1,8,1,0,64.5,High,"unusual amount, new beneficiary, cross-border, shared device, beneficiary concentration"
+T001179,C0039,B0256,D0158,GB,259.44,23,1,0,3,0,6.092122727272727,1,5,1,10,1,0,64.0,High,"unusual amount, new beneficiary, odd-hour activity, shared device, beneficiary concentration"
+T000666,C0105,B0105,D0099,GB,623.2811240967806,1,1,1,13,1,2.0569737523980347,1,3,0,5,0,1,61.4,High,"high velocity, new beneficiary, cross-border, odd-hour activity"
+T000979,C0053,B0163,D0154,ID,1673.12,1,1,0,2,0,10.148412881082171,1,5,1,3,0,0,60.0,High,"unusual amount, new beneficiary, odd-hour activity, shared device"
+T000551,C0121,B0242,D0006,ID,550.07,0,1,1,3,0,3.3690113435993894,1,4,1,5,0,0,55.5,High,"unusual amount, new beneficiary, cross-border, odd-hour activity, shared device"
+T000541,C0107,B0112,D0129,ID,257.35,2,0,1,1,0,11.50127637889688,1,4,1,2,0,0,55.0,High,"unusual amount, cross-border, odd-hour activity, shared device"
+T000859,C0101,B0103,D0102,ID,698.35,23,0,0,1,0,8.681882609694458,1,11,1,10,1,0,55.0,High,"unusual amount, odd-hour activity, shared device, beneficiary concentration"
+T001017,C0058,B0117,D0111,SG,142.58,4,1,1,4,0,-0.6745,1,10,1,9,1,0,55.0,High,"new beneficiary, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000027,C0061,B0028,D0029,HK,1044.13,3,1,0,2,0,6.1966432852499,1,7,1,6,0,0,54.4,High,"unusual amount, new beneficiary, odd-hour activity, shared device"
+T000973,C0072,B0259,D0056,NL,1713.54,1,0,1,2,0,6.9710720412860026,1,7,1,5,0,0,51.8,High,"unusual amount, cross-border, odd-hour activity, shared device"
+T000318,C0110,B0013,D0124,ID,468.43,3,1,1,4,0,1.938610629276284,1,5,1,7,0,0,51.1,High,"new beneficiary, cross-border, odd-hour activity, shared device"
+T000620,C0021,B0077,D0134,MY,417.3,3,0,1,2,0,3.247194481333923,1,11,1,9,1,0,50.1,High,"unusual amount, cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000061,C0139,B0069,D0061,CN,1620.07,22,1,0,1,0,9.57393025436361,0,8,1,6,0,0,50.0,High,"unusual amount, new beneficiary, shared device"
+T001077,C0107,B0055,D0099,ID,476.41,2,1,0,6,0,29.2178195443645,1,3,0,5,0,0,50.0,High,"unusual amount, new beneficiary, odd-hour activity"
+T001200,C0094,B0191,D0112,ID,210.56,18,1,0,5,0,8.793901842948715,0,5,1,7,0,0,50.0,High,"unusual amount, new beneficiary, shared device"
+T000057,C0082,B0058,D0151,ID,592.13,13,1,1,1,0,4.632150375351892,0,6,1,4,0,0,49.5,Review,"unusual amount, new beneficiary, cross-border, shared device"
+T000070,C0071,B0013,D0039,DE,1060.11,19,1,0,3,0,7.745316317287784,0,12,1,7,0,0,49.2,Review,"unusual amount, new beneficiary, shared device"
+T000725,C0118,B0094,D0079,MY,1007.71,20,0,1,1,0,5.849185715771412,0,8,1,8,1,0,48.3,Review,"unusual amount, cross-border, shared device, beneficiary concentration"
+T000085,C0095,B0099,D0062,SG,427.17,11,1,1,4,0,4.222146408839778,0,7,1,3,0,0,48.2,Review,"unusual amount, new beneficiary, cross-border, shared device"
+T001191,C0063,B0118,D0020,US,212.03,23,1,0,3,0,0.8798753010234797,1,7,1,9,1,0,47.7,Review,"new beneficiary, odd-hour activity, shared device, beneficiary concentration"
+T000271,C0045,B0233,D0142,DE,447.87,23,1,1,5,0,0.8465694190025232,1,6,1,5,0,0,47.6,Review,"new beneficiary, cross-border, odd-hour activity, shared device"
+T000192,C0095,B0138,D0068,GB,189.17,4,1,0,5,0,0.6745,1,6,1,9,1,0,47.1,Review,"new beneficiary, odd-hour activity, shared device, beneficiary concentration"
+T000895,C0113,B0043,D0035,NL,186.98,0,1,0,4,0,0.38844976037689855,1,10,1,10,1,0,46.2,Review,"new beneficiary, odd-hour activity, shared device, beneficiary concentration"
+T000024,C0140,B0170,D0148,CN,252.45,18,0,1,3,0,4.997282806804373,0,6,1,9,1,0,45.6,Review,"unusual amount, cross-border, shared device, beneficiary concentration"
+T000653,C0031,B0118,D0135,CN,1132.67,3,0,1,1,0,1.7149541105354058,1,8,1,9,1,0,45.4,Review,"cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000727,C0109,B0094,D0149,MY,149.05,23,1,0,3,0,0.04592593883621483,1,8,1,8,1,0,45.1,Review,"new beneficiary, odd-hour activity, shared device, beneficiary concentration"
+T000094,C0059,B0002,D0110,ID,309.74,1,0,0,1,0,18.633564958283674,1,6,1,5,0,0,45.0,Review,"unusual amount, odd-hour activity, shared device"
+T000136,C0046,B0259,D0176,ID,1184.07,10,0,1,4,0,11.65651449100835,0,7,1,5,0,0,45.0,Review,"unusual amount, cross-border, shared device"
+T000209,C0040,B0001,D0095,ID,3077.16,21,0,0,5,0,29.106283834305366,0,7,1,9,1,0,45.0,Review,"unusual amount, shared device, beneficiary concentration"
+T000325,C0147,B0157,D0142,SG,768.39,2,0,0,2,0,8.577800454545454,1,6,1,4,0,0,45.0,Review,"unusual amount, odd-hour activity, shared device"
+T000360,C0113,B0222,D0077,ID,90.49,21,1,1,2,0,-0.6688567947364146,0,4,1,8,1,0,45.0,Review,"new beneficiary, cross-border, shared device, beneficiary concentration"
+T000366,C0078,B0118,D0096,ID,95.45,1,1,0,3,0,-0.44153033295063143,1,7,1,9,1,0,45.0,Review,"new beneficiary, odd-hour activity, shared device, beneficiary concentration"
+T000372,C0100,B0094,D0008,ID,3256.84,6,0,0,2,0,28.99998890410959,0,4,1,8,1,0,45.0,Review,"unusual amount, shared device, beneficiary concentration"
+T000427,C0130,B0150,D0065,GB,175.14,3,1,1,3,0,-1.3002001493145103,1,9,1,3,0,0,45.0,Review,"new beneficiary, cross-border, odd-hour activity, shared device"
+T000464,C0063,B0144,D0110,ID,60.11,10,1,1,2,0,-0.6624190999397952,0,6,1,9,1,0,45.0,Review,"new beneficiary, cross-border, shared device, beneficiary concentration"
+T000492,C0131,B0231,D0102,GB,2476.12,11,0,1,2,0,37.97284545025374,0,11,1,3,0,0,45.0,Review,"unusual amount, cross-border, shared device"
+T000535,C0087,B0224,D0145,SG,22.29,23,1,1,3,0,-1.53634564589352,1,5,1,5,0,0,45.0,Review,"new beneficiary, cross-border, odd-hour activity, shared device"
+T000565,C0134,B0150,D0132,CN,436.73,18,0,1,1,0,8.241335415483624,0,6,1,3,0,0,45.0,Review,"unusual amount, cross-border, shared device"
+T000639,C0119,B0058,D0051,SG,325.37,3,0,0,3,0,9.155658502180044,1,8,1,4,0,0,45.0,Review,"unusual amount, odd-hour activity, shared device"
+T000649,C0145,B0135,D0031,CN,1158.11,11,0,1,3,0,11.65814921976593,0,9,1,4,0,0,45.0,Review,"unusual amount, cross-border, shared device"
+T000675,C0094,B0106,D0105,SG,644.25,23,0,0,2,0,32.233317307692296,1,6,1,5,0,0,45.0,Review,"unusual amount, odd-hour activity, shared device"
+T000693,C0140,B0228,D0129,ID,1121.15,20,0,0,2,0,28.72908313082219,0,4,1,8,1,0,45.0,Review,"unusual amount, shared device, beneficiary concentration"
+T000741,C0123,B0043,D0089,HK,21.49,0,1,0,4,0,-0.6907935897435897,1,7,1,10,1,0,45.0,Review,"new beneficiary, odd-hour activity, shared device, beneficiary concentration"
+T000822,C0100,B0171,D0046,MY,118.22,5,1,1,2,0,0.0,0,4,1,8,1,0,45.0,Review,"new beneficiary, cross-border, shared device, beneficiary concentration"
+T000833,C0068,B0024,D0122,NL,478.06,13,0,1,2,0,10.74639615384615,0,8,1,7,0,0,45.0,Review,"unusual amount, cross-border, shared device"
+T000900,C0093,B0064,D0144,NL,124.23,1,1,0,1,0,-0.6825633592349073,1,10,1,10,1,0,45.0,Review,"new beneficiary, odd-hour activity, shared device, beneficiary concentration"
+T000952,C0046,B0084,D0168,GB,69.71,3,1,1,1,0,-0.41214029383429673,1,11,1,7,0,0,45.0,Review,"new beneficiary, cross-border, odd-hour activity, shared device"
+T000953,C0093,B0222,D0019,DE,156.98,20,1,1,3,0,-0.02237582187686762,0,9,1,8,1,0,45.0,Review,"new beneficiary, cross-border, shared device, beneficiary concentration"
+T001022,C0011,B0040,D0142,GB,152.32,15,1,1,4,0,-0.5990331988261189,0,6,1,8,1,0,45.0,Review,"new beneficiary, cross-border, shared device, beneficiary concentration"
+T001104,C0023,B0228,D0037,TH,1337.89,7,0,0,3,0,15.600581253518483,0,9,1,8,1,0,45.0,Review,"unusual amount, shared device, beneficiary concentration"
+T001196,C0096,B0170,D0052,HK,119.84,4,1,0,2,0,0.0,1,7,1,9,1,0,45.0,Review,"new beneficiary, odd-hour activity, shared device, beneficiary concentration"
+T000301,C0055,B0138,D0002,US,354.16,5,1,0,2,0,3.1582834229926275,0,12,1,9,1,0,44.9,Review,"unusual amount, new beneficiary, shared device, beneficiary concentration"
+T000852,C0121,B0079,D0134,SG,920.47,10,1,0,3,0,6.305825731750324,0,11,1,7,0,0,44.7,Review,"unusual amount, new beneficiary, shared device"
+T000306,C0022,B0063,D0051,GB,368.4,7,1,1,3,0,3.078990303030303,0,8,1,5,0,0,44.6,Review,"unusual amount, new beneficiary, cross-border, shared device"
+T000499,C0139,B0094,D0143,ID,603.94,15,1,0,3,0,2.9827903303361065,0,11,1,8,1,0,44.3,Review,"new beneficiary, shared device, beneficiary concentration"
+T000287,C0025,B0043,D0044,SG,404.17,9,1,0,4,0,2.6885078642384106,0,10,1,10,1,0,43.4,Review,"new beneficiary, shared device, beneficiary concentration"
+T000001,C0014,B0228,D0002,CN,426.83,9,1,0,3,0,2.657112466124661,0,12,1,8,1,0,43.3,Review,"new beneficiary, shared device, beneficiary concentration"
+T000791,C0015,B0138,D0001,US,369.16,12,0,1,4,0,4.18879425711275,0,14,1,9,1,0,43.1,Review,"unusual amount, cross-border, shared device, beneficiary concentration"
+T000886,C0111,B0170,D0084,GB,706.52,7,0,1,4,0,4.156780028429282,0,9,1,9,1,0,43.0,Review,"unusual amount, cross-border, shared device, beneficiary concentration"
+T000888,C0029,B0172,D0036,GB,387.15,0,1,0,3,0,2.5629364031958914,1,7,1,4,0,0,43.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000633,C0066,B0153,D0101,CN,793.61,12,0,1,1,0,7.185789862804879,0,8,1,7,0,0,42.5,Review,"unusual amount, cross-border, shared device"
+T000214,C0068,B0206,D0107,HK,342.28,1,0,0,3,0,7.038557692307691,1,4,1,5,0,0,42.0,Review,"unusual amount, odd-hour activity, shared device"
+T000945,C0020,B0094,D0097,SG,204.29,23,0,1,3,0,0.41011388658695386,1,9,1,8,1,0,41.3,Review,"cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000147,C0006,B0222,D0143,ID,423.28,4,0,1,4,0,0.3507481559854897,1,11,1,8,1,0,41.1,Review,"cross-border, odd-hour activity, shared device, beneficiary concentration"
+T001071,C0102,B0083,D0040,CN,1392.47,3,0,0,2,0,3.5454790752459697,1,5,1,10,1,0,41.1,Review,"unusual amount, odd-hour activity, shared device, beneficiary concentration"
+T000128,C0115,B0022,D0170,GB,482.24,1,1,0,1,0,1.9300813915460713,1,8,1,4,0,0,41.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000537,C0069,B0131,D0138,NL,378.57,0,1,0,3,0,1.7768620119745537,1,8,1,4,0,0,40.6,Review,"new beneficiary, odd-hour activity, shared device"
+T000014,C0115,B0225,D0108,ID,735.13,4,0,1,3,0,3.3246877606082905,1,8,1,4,0,0,40.4,Review,"unusual amount, cross-border, odd-hour activity, shared device"
+T000899,C0011,B0195,D0097,SG,1265.78,16,0,1,3,0,3.3367637302169584,0,9,1,9,1,0,40.4,Review,"unusual amount, cross-border, shared device, beneficiary concentration"
+T000046,C0146,B0256,D0161,CN,80.63,3,0,1,2,0,-0.3322641562064157,1,5,1,10,1,0,40.0,Review,"cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000120,C0018,B0103,D0179,MY,60.13,23,0,1,4,0,-0.6017053933724074,1,6,1,10,1,0,40.0,Review,"cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000702,C0093,B0138,D0024,GB,125.03,1,0,1,3,0,-0.6664366407650927,1,8,1,9,1,0,40.0,Review,"cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000738,C0051,B0144,D0086,SG,241.74,4,0,1,1,0,-0.2072288135593221,1,9,1,9,1,0,40.0,Review,"cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000801,C0002,B0228,D0165,SG,102.02,4,0,1,4,0,-0.6021710318820706,1,6,1,8,1,0,40.0,Review,"cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000813,C0103,B0040,D0062,HK,102.86,23,0,1,2,0,-0.8065367546371219,1,7,1,8,1,0,40.0,Review,"cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000943,C0138,B0250,D0018,ID,221.79,11,1,0,3,0,1.6039011098981077,0,9,1,8,1,0,40.0,Review,"new beneficiary, shared device, beneficiary concentration"
+T001135,C0093,B0144,D0016,CN,137.72,23,0,1,2,0,-0.4106265690376567,1,7,1,9,1,0,40.0,Review,"cross-border, odd-hour activity, shared device, beneficiary concentration"
+T000344,C0078,B0148,D0170,US,388.03,19,1,1,2,0,1.371054833524684,0,8,1,5,0,0,39.3,Review,"new beneficiary, cross-border, shared device"
+T000216,C0041,B0204,D0120,HK,877.19,0,0,0,3,0,6.0453622387861055,1,4,1,4,0,0,38.9,Review,"unusual amount, odd-hour activity, shared device"
+T000475,C0096,B0186,D0069,NL,789.28,14,0,1,3,0,5.95459949887907,0,6,1,6,0,0,38.6,Review,"unusual amount, cross-border, shared device"
+T000817,C0007,B0108,D0001,ID,544.22,1,0,0,3,0,2.760345990083001,1,14,1,9,1,0,38.6,Review,"odd-hour activity, shared device, beneficiary concentration"
+T001082,C0149,B0092,D0044,ID,176.08,17,1,1,3,0,1.1525911917098444,0,10,1,2,0,0,38.6,Review,"new beneficiary, cross-border, shared device"
+T001165,C0078,B0197,D0140,ID,336.2,4,1,0,3,0,1.0499587600459241,1,8,1,4,0,0,38.3,Review,"new beneficiary, odd-hour activity, shared device"
+T000718,C0074,B0128,D0116,ID,619.88,21,1,0,5,0,4.0742013304839375,0,4,1,4,0,0,37.7,Review,"unusual amount, new beneficiary, shared device"
+T000722,C0140,B0139,D0179,CN,276.8,21,0,0,1,0,5.662494430943701,0,6,1,8,1,0,37.7,Review,"unusual amount, shared device, beneficiary concentration"
+T000246,C0013,B0010,D0001,ID,277.86,1,1,0,6,0,0.7803692981597494,1,14,1,4,0,0,37.4,Review,"new beneficiary, odd-hour activity, shared device"
+T000614,C0058,B0129,D0132,HK,739.14,2,0,0,4,0,5.555252593280696,1,6,1,5,0,0,37.4,Review,"unusual amount, odd-hour activity, shared device"
+T000993,C0030,B0075,D0143,GB,360.81,18,1,1,2,0,0.7243753435059299,0,11,1,6,0,0,37.3,Review,"new beneficiary, cross-border, shared device"
+T000533,C0024,B0182,D0030,DE,1168.99,0,0,0,4,0,2.3094630136986294,1,4,1,9,1,0,37.2,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000311,C0100,B0087,D0012,HK,192.14,2,1,0,3,0,0.6830005479452054,1,6,1,5,0,0,37.1,Review,"new beneficiary, odd-hour activity, shared device"
+T000610,C0129,B0249,D0146,MY,127.23,11,1,1,2,0,0.6745,0,7,1,5,0,0,37.1,Review,"new beneficiary, cross-border, shared device"
+T000626,C0035,B0234,D0113,GB,265.39,0,1,0,1,0,0.6720761822624695,1,10,1,4,0,0,37.1,Review,"new beneficiary, odd-hour activity, shared device"
+T000660,C0044,B0191,D0049,HK,898.74,0,0,0,5,0,5.473951845906902,1,6,1,7,0,0,37.1,Review,"unusual amount, odd-hour activity, shared device"
+T001072,C0032,B0083,D0134,HK,620.04,10,1,0,2,0,0.6745,0,11,1,10,1,0,37.1,Review,"new beneficiary, shared device, beneficiary concentration"
+T000578,C0079,B0043,D0161,CN,247.33,7,0,1,4,0,2.1577474634261447,0,5,1,10,1,0,36.7,Review,"cross-border, shared device, beneficiary concentration"
+T000090,C0125,B0162,D0064,HK,221.83,20,1,1,3,0,0.5190847305557114,0,4,1,6,0,0,36.6,Review,"new beneficiary, cross-border, shared device"
+T000331,C0083,B0024,D0173,ID,743.9,1,0,0,4,0,5.23333413859746,1,8,1,7,0,0,36.4,Review,"unusual amount, odd-hour activity, shared device"
+T000442,C0046,B0014,D0127,ID,147.19,0,1,0,1,0,0.4269775610147722,1,9,1,6,0,0,36.3,Review,"new beneficiary, odd-hour activity, shared device"
+T001055,C0012,B0077,D0147,US,230.42,11,1,0,1,0,0.35207740689998757,0,5,1,9,1,0,36.1,Review,"new beneficiary, shared device, beneficiary concentration"
+T000194,C0055,B0193,D0017,ID,142.21,13,1,0,1,0,0.30990177326160584,0,6,1,8,1,0,36.0,Review,"new beneficiary, shared device, beneficiary concentration"
+T000878,C0112,B0114,D0045,DE,193.94,8,1,1,3,0,0.3030329607816892,0,7,1,5,0,0,35.9,Review,"new beneficiary, cross-border, shared device"
+T000745,C0120,B0099,D0137,HK,273.37,8,1,1,4,0,0.22808571689497728,0,9,1,3,0,0,35.7,Review,"new beneficiary, cross-border, shared device"
+T000921,C0131,B0200,D0016,HK,104.76,18,1,1,3,0,0.21804030449663647,0,7,1,2,0,0,35.7,Review,"new beneficiary, cross-border, shared device"
+T000593,C0036,B0090,D0035,SG,712.09,0,0,0,2,0,5.003362397441248,1,10,1,6,0,0,35.6,Review,"unusual amount, odd-hour activity, shared device"
+T000056,C0007,B0022,D0086,TH,185.3,0,1,0,2,0,0.15075732995580476,1,9,1,4,0,0,35.5,Review,"new beneficiary, odd-hour activity, shared device"
+T000435,C0066,B0108,D0070,US,111.81,16,1,0,2,0,0.1755139481707318,0,6,1,9,1,0,35.5,Review,"new beneficiary, shared device, beneficiary concentration"
+T000774,C0108,B0089,D0001,DE,124.14,6,1,0,4,0,0.16651207558609543,0,14,1,9,1,0,35.5,Review,"new beneficiary, shared device, beneficiary concentration"
+T000218,C0015,B0114,D0010,ID,194.51,0,0,1,1,0,1.7061509483667017,1,7,1,5,0,0,35.3,Review,"cross-border, odd-hour activity, shared device"
+T000270,C0089,B0016,D0173,HK,109.27,23,1,0,7,0,0.11036546208530808,1,8,1,6,0,0,35.3,Review,"new beneficiary, odd-hour activity, shared device"
+T000706,C0085,B0064,D0055,ID,188.17,18,1,0,2,0,0.09799050972901983,0,5,1,10,1,0,35.3,Review,"new beneficiary, shared device, beneficiary concentration"
+T000208,C0146,B0227,D0047,ID,122.82,1,1,0,3,0,0.06462782426778232,1,6,1,7,0,0,35.2,Review,"new beneficiary, odd-hour activity, shared device"
+T000285,C0067,B0108,D0091,GB,496.84,21,1,0,3,0,0.024189257089848273,0,9,1,9,1,0,35.1,Review,"new beneficiary, shared device, beneficiary concentration"
+T000700,C0015,B0088,D0049,HK,77.26,11,1,1,1,0,0.03944652265542684,0,6,1,6,0,0,35.1,Review,"new beneficiary, cross-border, shared device"
+T000007,C0013,B0134,D0067,ID,70.05,11,1,1,4,0,-0.5916730373923257,0,11,1,7,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T000012,C0147,B0203,D0009,HK,130.05,1,1,0,3,0,-1.2076615909090909,1,5,1,3,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000036,C0010,B0090,D0101,ID,1131.61,20,0,0,4,0,33.550313824884796,0,8,1,6,0,0,35.0,Review,"unusual amount, shared device"
+T000095,C0135,B0247,D0075,SG,38.16,12,1,0,1,0,-0.7538298662371942,0,8,1,8,1,0,35.0,Review,"new beneficiary, shared device, beneficiary concentration"
+T000152,C0043,B0102,D0058,ID,92.68,0,1,0,3,0,-0.758590532194966,1,6,1,6,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000163,C0062,B0091,D0120,CN,47.76,0,1,0,4,0,-0.6123253670900025,1,4,1,3,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000166,C0123,B0005,D0078,ID,1111.26,19,0,0,2,0,9.228907692307692,0,10,1,4,0,0,35.0,Review,"unusual amount, shared device"
+T000204,C0105,B0084,D0101,CN,526.25,2,0,1,3,0,1.6127197936464839,1,8,1,7,0,0,35.0,Review,"cross-border, odd-hour activity, shared device"
+T000256,C0022,B0017,D0102,HK,103.82,22,1,1,2,0,-0.011212467532467624,0,11,1,4,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T000281,C0042,B0040,D0021,SG,53.24,17,1,0,3,0,-0.978846774964166,0,6,1,8,1,0,35.0,Review,"new beneficiary, shared device, beneficiary concentration"
+T000315,C0037,B0064,D0091,ID,38.48,12,1,0,3,0,-1.2856589759158066,0,9,1,10,1,0,35.0,Review,"new beneficiary, shared device, beneficiary concentration"
+T000357,C0023,B0233,D0001,ID,53.06,11,1,1,5,0,-0.6617162694689435,0,14,1,5,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T000367,C0071,B0251,D0067,NL,172.7,17,1,1,1,0,0.0,0,11,1,1,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T000384,C0037,B0108,D0150,ID,126.25,7,1,0,2,0,-0.08750344059906898,0,8,1,9,1,0,35.0,Review,"new beneficiary, shared device, beneficiary concentration"
+T000385,C0005,B0165,D0164,HK,75.94,15,1,1,2,0,-1.3252055435565153,0,7,1,6,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T000403,C0049,B0214,D0178,NL,112.01,23,1,0,3,0,-0.3884148465171191,1,8,1,6,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000421,C0140,B0069,D0097,SG,66.31,8,1,1,1,0,-0.08782978938841644,0,9,1,6,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T000440,C0060,B0071,D0174,HK,33.88,13,1,1,3,0,-1.6187857520067597,0,9,1,2,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T000443,C0020,B0116,D0137,SG,80.78,3,1,0,3,0,-0.5761237717532852,1,9,1,3,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000452,C0139,B0005,D0071,US,137.9,12,1,1,4,0,-0.040183944799730684,0,8,1,4,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T000454,C0004,B0155,D0017,CN,144.98,8,1,1,5,0,-0.21028678571428575,0,6,1,3,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T000478,C0003,B0109,D0168,ID,16.52,15,1,1,3,0,-0.8023498168498169,0,11,1,3,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T000489,C0115,B0244,D0027,ID,132.25,1,1,0,3,0,0.0,1,5,1,6,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000494,C0091,B0103,D0164,SG,217.2,15,1,0,3,0,0.0,0,7,1,10,1,0,35.0,Review,"new beneficiary, shared device, beneficiary concentration"
+T000514,C0123,B0190,D0041,ID,97.38,6,1,1,1,0,0.0,0,10,1,4,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T000561,C0081,B0100,D0165,DE,188.94,2,1,0,2,0,-0.5266127586418615,1,6,1,4,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000589,C0126,B0123,D0162,US,154.52,22,1,1,3,0,-0.15368354430379727,0,5,1,3,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T000644,C0073,B0220,D0095,HK,208.44,1,1,0,6,0,-0.829467267481315,1,7,1,6,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000658,C0095,B0152,D0027,ID,141.23,17,1,1,3,0,-0.04009734806629831,0,5,1,5,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T000696,C0039,B0221,D0135,HK,506.2,19,0,0,1,0,14.05574090909091,0,8,1,6,0,0,35.0,Review,"unusual amount, shared device"
+T000736,C0101,B0043,D0003,CN,26.2,10,1,0,4,0,-1.7331225591546053,0,9,1,10,1,0,35.0,Review,"new beneficiary, shared device, beneficiary concentration"
+T000743,C0096,B0227,D0081,SG,1067.98,10,0,0,1,0,8.433607147566924,0,10,1,7,0,0,35.0,Review,"unusual amount, shared device"
+T000748,C0048,B0238,D0150,ID,78.79,23,1,0,3,0,-0.6745,1,8,1,7,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000756,C0066,B0104,D0152,GB,2051.82,20,0,0,4,0,20.12272042682927,0,5,1,6,0,0,35.0,Review,"unusual amount, shared device"
+T000768,C0072,B0122,D0002,ID,141.11,16,1,1,2,0,-0.42556674105586156,0,12,1,7,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T000812,C0132,B0102,D0050,DE,2439.86,15,0,0,2,0,26.832063056888273,0,5,1,6,0,0,35.0,Review,"unusual amount, shared device"
+T000828,C0135,B0247,D0068,SG,95.19,11,1,0,3,0,-0.40965472196125796,0,6,1,8,1,0,35.0,Review,"new beneficiary, shared device, beneficiary concentration"
+T000839,C0003,B0256,D0159,DE,38.71,18,1,0,2,0,-0.6479139194139194,0,5,1,10,1,0,35.0,Review,"new beneficiary, shared device, beneficiary concentration"
+T000843,C0137,B0194,D0161,CN,58.19,4,1,0,6,0,-0.6745,1,5,1,5,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000847,C0024,B0118,D0138,GB,22.52,10,1,0,2,0,-0.6745,0,8,1,9,1,0,35.0,Review,"new beneficiary, shared device, beneficiary concentration"
+T000869,C0067,B0086,D0025,CN,70.19,3,1,0,1,0,-0.6896416134498639,1,5,1,3,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000870,C0007,B0109,D0176,HK,119.03,1,1,0,6,0,-0.3310699310121806,1,7,1,3,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000879,C0083,B0067,D0178,US,109.41,9,1,1,3,0,-0.6745,0,8,1,5,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T000884,C0024,B0173,D0018,CN,139.38,3,1,0,3,0,-0.37034383561643835,1,9,1,2,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000920,C0096,B0182,D0007,CN,38.33,20,1,0,2,0,-0.7250230120005274,0,6,1,9,1,0,35.0,Review,"new beneficiary, shared device, beneficiary concentration"
+T000955,C0118,B0183,D0175,NL,98.14,19,1,1,3,0,-0.5311893557277314,0,6,1,2,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T001018,C0075,B0259,D0157,CN,71.74,1,1,0,3,0,-1.5917451075641922,1,4,1,5,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T001019,C0007,B0075,D0018,SG,1609.79,8,0,0,4,0,10.507753179907295,0,9,1,6,0,0,35.0,Review,"unusual amount, shared device"
+T001027,C0012,B0228,D0086,HK,64.79,10,1,0,2,0,-1.0393466185079088,0,9,1,8,1,0,35.0,Review,"new beneficiary, shared device, beneficiary concentration"
+T001060,C0047,B0257,D0071,HK,109.41,1,1,0,2,0,-0.036629915165025735,1,8,1,5,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T001065,C0113,B0028,D0065,SG,116.08,20,1,1,6,0,-0.3884497603768987,0,9,1,6,0,0,35.0,Review,"new beneficiary, cross-border, shared device"
+T001090,C0022,B0108,D0128,ID,38.22,10,1,0,1,0,-0.7773977489177489,0,6,1,9,1,0,35.0,Review,"new beneficiary, shared device, beneficiary concentration"
+T001145,C0050,B0153,D0007,SG,91.75,3,1,0,2,0,-0.6745,1,6,1,7,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T001171,C0095,B0012,D0144,HK,944.27,15,0,0,1,0,11.930079005524863,0,10,1,4,0,0,35.0,Review,"unusual amount, shared device"
+T001184,C0068,B0102,D0056,CN,458.03,17,0,0,4,0,10.199423076923075,0,7,1,6,0,0,35.0,Review,"unusual amount, shared device"
+T001197,C0108,B0246,D0061,CN,55.85,23,1,0,1,0,-0.7644015258690379,1,8,1,3,0,0,35.0,Review,"new beneficiary, odd-hour activity, shared device"
+T000283,C0101,B0076,D0003,GB,236.59,0,0,1,2,0,1.5268832988743388,1,9,1,5,0,0,34.8,Review,"cross-border, odd-hour activity, shared device"
+T000171,C0016,B0229,D0144,SG,425.24,6,0,1,3,0,4.700196841637012,0,10,1,4,0,0,34.7,Review,"unusual amount, cross-border, shared device"
+T000239,C0047,B0083,D0028,CN,295.48,17,0,1,1,0,1.5176980927611616,0,6,1,10,1,0,34.7,Review,"cross-border, shared device, beneficiary concentration"
+T000410,C0003,B0033,D0034,ID,802.36,8,0,1,3,0,4.6668663003663005,0,12,1,6,0,0,34.6,Review,"unusual amount, cross-border, shared device"
+T000757,C0111,B0137,D0138,ID,572.59,21,1,0,4,0,3.0867043946932013,0,8,1,3,0,0,34.6,Review,"unusual amount, new beneficiary, shared device"
+T000142,C0033,B0036,D0174,HK,527.22,16,0,1,2,0,1.4024253224284366,0,9,1,8,1,0,34.4,Review,"cross-border, shared device, beneficiary concentration"
+T000628,C0056,B0256,D0134,GB,304.21,23,0,0,3,0,1.3292086166177632,1,11,1,10,1,0,34.2,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000931,C0081,B0186,D0110,ID,767.19,10,0,1,2,0,4.26284662614355,0,6,1,6,0,0,33.3,Review,"unusual amount, cross-border, shared device"
+T000889,C0003,B0080,D0032,ID,508.76,20,1,0,3,0,2.623496336996337,0,6,1,6,0,0,33.2,Review,"new beneficiary, shared device"
+T000950,C0042,B0222,D0001,ID,205.15,8,0,1,3,0,0.9793623984710937,0,14,1,8,1,0,33.1,Review,"cross-border, shared device, beneficiary concentration"
+T000103,C0121,B0182,D0135,DE,241.49,23,0,0,5,0,0.9223531797343366,1,8,1,9,1,0,32.9,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000280,C0013,B0108,D0068,ID,300.11,3,0,0,3,0,0.9272724402897417,1,6,1,9,1,0,32.9,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000224,C0031,B0175,D0166,ID,2146.86,3,0,0,3,0,4.077894196891192,1,5,1,6,0,0,32.7,Review,"unusual amount, odd-hour activity, shared device"
+T001011,C0041,B0182,D0013,ID,299.77,21,0,1,1,0,0.8614172101690403,0,9,1,9,1,0,32.7,Review,"cross-border, shared device, beneficiary concentration"
+T001127,C0129,B0089,D0024,GB,134.5,18,0,1,3,0,0.8150449985669245,0,8,1,9,1,0,32.5,Review,"cross-border, shared device, beneficiary concentration"
+T001192,C0042,B0050,D0001,DE,313.2,9,1,0,3,0,2.3721903965599607,0,14,1,5,0,0,32.4,Review,"new beneficiary, shared device"
+T000528,C0022,B0148,D0058,ID,164.32,23,0,1,5,0,0.6954065800865801,1,6,1,5,0,0,32.2,Review,"cross-border, odd-hour activity, shared device"
+T000353,C0045,B0139,D0105,US,407.12,21,0,1,3,0,0.6565727024504894,0,6,1,8,1,0,32.1,Review,"cross-border, shared device, beneficiary concentration"
+T000493,C0114,B0171,D0066,CN,216.0,2,0,0,2,0,0.6605606942215088,1,5,1,8,1,0,32.1,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000552,C0060,B0230,D0091,DE,355.79,3,0,1,2,0,0.6745,1,9,1,6,0,0,32.1,Review,"cross-border, odd-hour activity, shared device"
+T000395,C0108,B0182,D0013,CN,158.24,13,0,1,1,0,0.6313554466451092,0,9,1,9,1,0,32.0,Review,"cross-border, shared device, beneficiary concentration"
+T000114,C0069,B0222,D0136,CN,241.12,3,0,0,2,0,0.6204440875639267,1,6,1,8,1,0,31.9,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000108,C0100,B0062,D0111,ID,523.07,14,0,1,3,0,3.740703082191781,0,10,1,3,0,0,31.7,Review,"unusual amount, cross-border, shared device"
+T000554,C0048,B0103,D0079,CN,308.87,9,0,1,2,0,0.5549142438406084,0,8,1,10,1,0,31.7,Review,"cross-border, shared device, beneficiary concentration"
+T000313,C0018,B0193,D0169,ID,207.88,12,0,1,3,0,0.5215743068079352,0,5,1,8,1,0,31.6,Review,"cross-border, shared device, beneficiary concentration"
+T001148,C0116,B0195,D0158,US,449.29,1,0,0,3,0,0.5124747453310696,1,5,1,9,1,0,31.6,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000476,C0118,B0255,D0093,ID,243.09,3,0,1,3,0,0.4855937028755655,1,4,1,5,0,0,31.5,Review,"cross-border, odd-hour activity, shared device"
+T000781,C0132,B0171,D0041,ID,160.87,15,0,1,2,0,0.49246821453050027,0,10,1,8,1,0,31.5,Review,"cross-border, shared device, beneficiary concentration"
+T000729,C0074,B0048,D0091,DE,221.95,0,0,1,2,0,0.3736114366469046,1,9,1,6,0,0,31.2,Review,"cross-border, odd-hour activity, shared device"
+T000051,C0114,B0063,D0151,ID,192.34,0,0,1,5,0,0.34036266051364367,1,6,1,5,0,0,31.1,Review,"cross-border, odd-hour activity, shared device"
+T000636,C0103,B0036,D0172,MY,242.4,23,0,0,4,0,0.3651267583717165,1,6,1,8,1,0,31.1,Review,"odd-hour activity, shared device, beneficiary concentration"
+T001120,C0074,B0201,D0166,GB,221.21,3,0,0,3,0,0.36672973252447266,1,5,1,8,1,0,31.1,Review,"odd-hour activity, shared device, beneficiary concentration"
+T001025,C0124,B0104,D0110,TH,396.72,0,0,0,1,0,3.505270495377639,1,6,1,6,0,0,31.0,Review,"unusual amount, odd-hour activity, shared device"
+T000370,C0116,B0256,D0172,HK,379.71,3,0,0,3,0,0.30278968590831906,1,6,1,10,1,0,30.9,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000800,C0067,B0073,D0048,MY,2553.69,4,0,0,2,0,3.4655182763553043,1,5,1,7,0,0,30.8,Review,"unusual amount, odd-hour activity, shared device"
+T000077,C0050,B0171,D0001,ID,310.95,11,0,1,2,0,0.20850525561395122,0,14,1,8,1,0,30.7,Review,"cross-border, shared device, beneficiary concentration"
+T000861,C0146,B0232,D0078,DE,305.58,10,1,0,1,0,1.783897280334728,0,10,1,4,0,0,30.6,Review,"new beneficiary, shared device"
+T000006,C0129,B0234,D0002,GB,99.36,0,0,1,4,0,0.13571195184866716,1,12,1,4,0,0,30.4,Review,"cross-border, odd-hour activity, shared device"
+T000719,C0036,B0117,D0005,CN,191.85,1,0,0,2,0,0.12362550410235025,1,6,1,9,1,0,30.4,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000303,C0002,B0060,D0040,US,256.16,23,0,1,3,0,0.11066702091189594,1,5,1,5,0,0,30.3,Review,"cross-border, odd-hour activity, shared device"
+T000705,C0020,B0087,D0002,ID,564.75,15,0,1,4,0,3.2884170711495204,0,12,1,5,0,0,30.3,Review,"unusual amount, cross-border, shared device"
+T000762,C0083,B0257,D0160,GB,535.28,23,0,0,4,0,3.290841178906681,1,5,1,5,0,0,30.3,Review,"unusual amount, odd-hour activity, shared device"
+T000698,C0089,B0227,D0057,ID,307.01,1,0,0,4,0,3.2709254146919426,1,4,1,7,0,0,30.2,Review,"unusual amount, odd-hour activity, shared device"
+T000586,C0139,B0064,D0117,US,150.29,9,0,1,2,0,0.040183944799730684,0,6,1,10,1,0,30.1,Review,"cross-border, shared device, beneficiary concentration"
+T000625,C0091,B0201,D0067,MY,223.58,4,0,0,2,0,0.02804007297843237,1,11,1,8,1,0,30.1,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000830,C0005,B0089,D0150,ID,200.95,0,0,0,2,0,0.02379445644348435,1,8,1,9,1,0,30.1,Review,"odd-hour activity, shared device, beneficiary concentration"
+T001185,C0064,B0048,D0135,ID,393.33,10,0,0,2,0,6.43780198019802,0,8,1,6,0,0,30.1,Review,"unusual amount, shared device"
+T000025,C0118,B0108,D0063,GB,166.3,23,0,0,1,0,-0.05306632520409754,1,5,1,9,1,0,30.0,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000087,C0015,B0236,D0044,ID,19.21,3,0,1,2,0,-0.7857320864067439,1,10,1,4,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000091,C0066,B0061,D0062,ID,69.26,2,0,0,2,0,-0.26198567073170725,1,7,1,8,1,0,30.0,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000131,C0085,B0117,D0164,CN,176.0,12,0,1,4,0,0.0,0,7,1,9,1,0,30.0,Review,"cross-border, shared device, beneficiary concentration"
+T000135,C0120,B0139,D0144,GB,229.35,4,0,0,5,0,0.011161589041095963,1,10,1,8,1,0,30.0,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000139,C0053,B0201,D0096,ID,182.68,23,0,0,4,0,0.0,1,7,1,8,1,0,30.0,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000148,C0036,B0182,D0105,MY,93.09,23,0,0,1,0,-0.8027215964399945,1,6,1,9,1,0,30.0,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000154,C0045,B0238,D0035,TH,46.44,3,0,1,2,0,-1.0250963951197594,1,10,1,7,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000168,C0026,B0118,D0114,DE,53.73,6,0,1,2,0,-0.5836613290214897,0,5,1,9,1,0,30.0,Review,"cross-border, shared device, beneficiary concentration"
+T000172,C0014,B0089,D0167,TH,138.28,0,0,0,3,0,-0.1189105691056909,1,12,1,9,1,0,30.0,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000226,C0046,B0211,D0104,SG,34.57,2,0,1,1,0,-0.7927107819524727,1,9,1,3,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000235,C0074,B0083,D0003,ID,79.87,23,0,0,3,0,-0.9476757548600578,1,9,1,10,1,0,30.0,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000294,C0050,B0087,D0001,ID,59.47,4,0,1,2,0,-0.8045338031533684,1,14,1,5,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000298,C0066,B0203,D0075,HK,94.74,4,0,1,4,0,0.0,1,8,1,3,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000324,C0138,B0039,D0068,ID,77.68,4,0,1,2,0,-0.16469778020378445,1,6,1,7,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000336,C0122,B0009,D0025,HK,108.52,4,0,1,1,0,-0.5515779446241507,1,5,1,2,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000378,C0113,B0207,D0162,DE,89.46,0,0,1,2,0,-0.6801432052635854,1,5,1,6,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000396,C0132,B0043,D0164,DE,75.65,4,0,0,4,0,-0.49246821453050027,1,7,1,10,1,0,30.0,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000413,C0042,B0174,D0036,NL,117.64,0,0,1,4,0,-0.1486929288103202,1,7,1,3,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000437,C0086,B0043,D0173,ID,168.12,11,0,1,2,0,-0.6430852456229814,0,8,1,10,1,0,30.0,Review,"cross-border, shared device, beneficiary concentration"
+T000446,C0100,B0077,D0082,ID,56.54,23,0,0,3,0,-0.5699063013698631,1,5,1,9,1,0,30.0,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000456,C0084,B0060,D0002,HK,31.52,3,0,1,3,0,-0.8330566631165546,1,12,1,5,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000466,C0145,B0103,D0007,ID,23.14,9,0,1,3,0,-0.7855644505851757,0,6,1,10,1,0,30.0,Review,"cross-border, shared device, beneficiary concentration"
+T000472,C0121,B0147,D0175,CN,32.6,4,0,1,1,0,-0.7338864464558599,1,6,1,1,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000511,C0150,B0089,D0021,TH,102.16,9,0,1,3,0,-0.2634933593058261,0,6,1,9,1,0,30.0,Review,"cross-border, shared device, beneficiary concentration"
+T000517,C0133,B0168,D0112,ID,142.91,4,0,1,1,0,-0.6745,1,5,1,4,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000523,C0029,B0170,D0023,SG,63.68,23,0,0,3,0,-0.5499258453417035,1,9,1,9,1,0,30.0,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000530,C0139,B0028,D0117,HK,39.84,2,0,1,2,0,-0.6762513583689955,1,6,1,6,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000557,C0111,B0091,D0018,HK,117.07,20,0,0,9,0,-0.5528151504382849,0,9,1,3,0,1,30.0,Review,"high velocity, shared device"
+T000597,C0087,B0253,D0054,ID,132.67,23,0,1,3,0,0.0,1,7,1,5,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000624,C0063,B0228,D0036,ID,120.12,1,0,0,7,0,-0.05319656833232986,1,7,1,8,1,0,30.0,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000664,C0031,B0097,D0023,CN,96.78,23,0,1,6,0,-0.6985443523316063,1,9,1,4,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000688,C0090,B0108,D0032,US,206.08,3,0,0,6,0,-0.07761736015851237,1,6,1,9,1,0,30.0,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000707,C0002,B0077,D0155,MY,38.63,22,0,1,4,0,-0.8953253342475146,0,6,1,9,1,0,30.0,Review,"cross-border, shared device, beneficiary concentration"
+T000730,C0099,B0247,D0142,CN,96.6,4,0,0,4,0,0.0,1,6,1,8,1,0,30.0,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000734,C0117,B0247,D0015,ID,149.84,23,0,1,5,0,-0.6745,1,2,0,8,1,0,30.0,Review,"cross-border, odd-hour activity, beneficiary concentration"
+T000760,C0110,B0049,D0157,ID,21.35,2,0,1,6,0,-0.9673878288522694,1,4,1,5,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000761,C0027,B0218,D0022,CN,39.56,2,0,1,4,0,-0.9531805952642769,1,8,1,5,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000850,C0091,B0171,D0003,DE,57.67,2,0,0,3,0,-0.7011336743337458,1,9,1,8,1,0,30.0,Review,"odd-hour activity, shared device, beneficiary concentration"
+T000887,C0008,B0190,D0024,ID,109.91,23,0,1,1,0,-0.6745,1,8,1,4,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T000908,C0026,B0036,D0025,ID,37.24,18,0,1,3,0,-0.8157186000417275,0,5,1,8,1,0,30.0,Review,"cross-border, shared device, beneficiary concentration"
+T000972,C0063,B0193,D0043,US,29.42,13,0,1,1,0,-0.9739844972907884,0,7,1,8,1,0,30.0,Review,"cross-border, shared device, beneficiary concentration"
+T000992,C0083,B0107,D0094,ID,150.28,1,0,1,3,0,-0.2939531336278299,1,8,1,6,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T001010,C0079,B0036,D0085,ID,64.21,5,0,1,4,0,-0.7567036927796131,0,7,1,8,1,0,30.0,Review,"cross-border, shared device, beneficiary concentration"
+T001034,C0048,B0036,D0061,DE,54.88,0,0,0,3,0,-0.802261189891468,1,8,1,8,1,0,30.0,Review,"odd-hour activity, shared device, beneficiary concentration"
+T001049,C0101,B0041,D0109,US,114.93,4,0,1,1,0,-0.3582458074890879,1,5,1,4,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T001052,C0055,B0144,D0010,SG,66.29,22,0,1,3,0,-0.7103819485953375,0,7,1,9,1,0,30.0,Review,"cross-border, shared device, beneficiary concentration"
+T001053,C0076,B0064,D0081,DE,79.68,5,0,1,3,0,-0.565554393616494,0,10,1,10,1,0,30.0,Review,"cross-border, shared device, beneficiary concentration"
+T001094,C0059,B0194,D0134,CN,77.96,1,0,1,1,0,0.0,1,11,1,5,0,0,30.0,Review,"cross-border, odd-hour activity, shared device"
+T001116,C0074,B0001,D0175,ID,124.34,7,0,1,1,0,-0.5341225355025506,0,6,1,9,1,0,30.0,Review,"cross-border, shared device, beneficiary concentration"
+T000840,C0137,B0117,D0007,ID,225.96,7,0,0,1,0,3.165366474380727,0,6,1,9,1,0,29.9,Review,"unusual amount, shared device, beneficiary concentration"
+T000789,C0082,B0055,D0011,HK,297.8,22,1,0,4,0,1.5272772912105101,0,11,1,5,0,0,29.8,Review,"new beneficiary, shared device"
+T000834,C0022,B0176,D0002,CN,374.17,23,0,0,4,0,3.146381904761905,1,12,1,4,0,0,29.8,Review,"unusual amount, odd-hour activity, shared device"
+T000118,C0021,B0153,D0095,GB,401.76,5,0,1,1,0,3.0925282573410056,0,7,1,7,0,0,29.7,Review,"unusual amount, cross-border, shared device"
+T000355,C0146,B0119,D0178,CN,434.09,13,0,1,4,0,2.9928232914923285,0,8,1,4,0,0,29.4,Review,"cross-border, shared device"
+T000564,C0028,B0156,D0012,NL,404.83,14,1,0,2,0,1.406090429637252,0,6,1,3,0,0,29.4,Review,"new beneficiary, shared device"
+T000951,C0015,B0085,D0029,ID,510.7,6,0,0,2,0,6.2007801369863005,0,7,1,7,0,0,29.4,Review,"unusual amount, shared device"
+T001124,C0037,B0169,D0031,GB,352.77,11,0,1,5,0,3.0047398299939285,0,9,1,6,0,0,29.4,Review,"unusual amount, cross-border, shared device"
+T000179,C0136,B0131,D0174,GB,500.44,0,0,0,2,0,2.904807056370155,1,9,1,4,0,0,29.1,Review,"odd-hour activity, shared device"
+T000540,C0004,B0053,D0031,ID,443.87,20,1,0,2,0,1.3055125,0,9,1,5,0,0,29.1,Review,"new beneficiary, shared device"
+T000667,C0076,B0029,D0149,DE,599.5,0,0,0,1,0,2.9098739654061556,1,8,1,7,0,0,29.1,Review,"odd-hour activity, shared device"
+T000604,C0021,B0068,D0172,NL,378.99,18,0,1,4,0,2.8659034233436618,0,6,1,2,0,0,29.0,Review,"cross-border, shared device"
+T000527,C0139,B0246,D0111,ID,321.25,5,1,0,2,0,1.149118117997788,0,10,1,3,0,0,28.6,Review,"new beneficiary, shared device"
+T000676,C0109,B0032,D0134,ID,325.88,18,1,0,5,0,1.1546063162297822,0,11,1,2,0,0,28.6,Review,"new beneficiary, shared device"
+T000008,C0105,B0187,D0128,HK,767.13,17,0,1,4,0,2.7155813195764322,0,6,1,6,0,0,28.5,Review,"cross-border, shared device"
+T000279,C0010,B0060,D0104,SG,139.56,10,0,1,5,0,2.7144739631336416,0,9,1,5,0,0,28.5,Review,"cross-border, shared device"
+T000153,C0138,B0129,D0039,US,310.85,4,0,0,2,0,2.6968954694323153,1,12,1,5,0,0,28.4,Review,"odd-hour activity, shared device"
+T000598,C0117,B0049,D0063,ID,707.11,16,1,0,1,0,1.0721478392193307,0,5,1,5,0,0,28.4,Review,"new beneficiary, shared device"
+T000835,C0129,B0256,D0002,HK,231.86,16,0,0,3,0,2.6972267125250786,0,12,1,10,1,0,28.4,Review,"shared device, beneficiary concentration"
+T001189,C0085,B0248,D0117,ID,308.78,9,1,0,5,0,1.069119135728781,0,6,1,4,0,0,28.3,Review,"new beneficiary, shared device"
+T000512,C0112,B0122,D0017,ID,448.54,20,0,1,3,0,2.6016235109088477,0,6,1,7,0,0,28.1,Review,"cross-border, shared device"
+T000260,C0089,B0134,D0029,ID,161.78,11,1,0,5,0,0.949654443127962,0,7,1,7,0,0,28.0,Review,"new beneficiary, shared device"
+T000969,C0139,B0243,D0076,DE,287.87,10,1,0,3,0,0.9325983314901187,0,8,1,6,0,0,27.9,Review,"new beneficiary, shared device"
+T000333,C0047,B0242,D0167,TH,220.33,13,1,0,2,0,0.8899356926125457,0,12,1,5,0,0,27.8,Review,"new beneficiary, shared device"
+T000444,C0074,B0154,D0087,ID,277.33,20,1,1,1,0,0.8886232938094579,0,3,0,3,0,0,27.8,Review,"new beneficiary, cross-border"
+T000536,C0024,B0207,D0041,GB,614.66,11,1,0,6,0,0.8666863013698628,0,10,1,6,0,0,27.7,Review,"new beneficiary, shared device"
+T000697,C0109,B0149,D0032,CN,278.89,22,1,0,4,0,0.8599906348763707,0,6,1,4,0,0,27.7,Review,"new beneficiary, shared device"
+T000841,C0044,B0076,D0038,GB,256.23,20,1,0,3,0,0.836466613162119,0,8,1,5,0,0,27.6,Review,"new beneficiary, shared device"
+T000999,C0145,B0148,D0002,GB,315.85,1,0,0,3,0,2.4236828673602084,1,12,1,5,0,0,27.6,Review,"odd-hour activity, shared device"
+T000600,C0097,B0136,D0119,CN,548.4,5,1,0,1,0,0.6590756879479184,0,5,1,3,0,0,27.1,Review,"new beneficiary, shared device"
+T000668,C0130,B0197,D0127,CN,390.82,6,1,0,4,0,0.6745,0,9,1,4,0,0,27.1,Review,"new beneficiary, shared device"
+T000059,C0112,B0140,D0085,ID,755.52,12,0,0,1,0,5.373113405166643,0,7,1,4,0,0,26.8,Review,"unusual amount, shared device"
+T000115,C0076,B0234,D0019,ID,250.35,21,1,0,3,0,0.575516280913912,0,9,1,4,0,0,26.8,Review,"new beneficiary, shared device"
+T000213,C0119,B0065,D0033,ID,215.36,16,0,0,2,0,5.349464862785329,0,5,1,4,0,0,26.7,Review,"unusual amount, shared device"
+T000935,C0067,B0115,D0013,ID,783.86,10,1,0,2,0,0.5044042728224352,0,9,1,4,0,0,26.6,Review,"new beneficiary, shared device"
+T000910,C0014,B0074,D0169,CN,199.54,17,1,0,3,0,0.4704471544715447,0,5,1,5,0,0,26.5,Review,"new beneficiary, shared device"
+T000244,C0098,B0113,D0084,MY,351.81,4,0,0,4,0,2.034266570386136,1,9,1,3,0,0,26.4,Review,"odd-hour activity, shared device"
+T000190,C0046,B0236,D0062,ID,295.2,1,0,0,3,0,2.029943922607579,1,7,1,4,0,0,26.3,Review,"odd-hour activity, shared device"
+T000038,C0125,B0033,D0122,SG,414.91,0,0,0,3,0,1.9796629843548479,1,8,1,6,0,0,26.2,Review,"odd-hour activity, shared device"
+T000266,C0088,B0029,D0097,MY,413.54,13,1,0,4,0,0.35659152849071224,0,9,1,7,0,0,26.1,Review,"new beneficiary, shared device"
+T000288,C0086,B0001,D0102,SG,618.31,12,0,0,2,0,1.9376826874043849,0,11,1,9,1,0,26.1,Review,"shared device, beneficiary concentration"
+T000543,C0030,B0119,D0137,GB,273.35,10,1,0,5,0,0.29776433685276255,0,9,1,4,0,0,25.9,Review,"new beneficiary, shared device"
+T001164,C0080,B0031,D0143,CN,257.33,12,1,0,3,0,0.2387040011826156,0,11,1,4,0,0,25.7,Review,"new beneficiary, shared device"
+T001069,C0051,B0031,D0094,MY,363.3,19,1,0,2,0,0.18423559322033892,0,8,1,4,0,0,25.6,Review,"new beneficiary, shared device"
+T000034,C0084,B0195,D0057,ID,607.84,6,0,0,3,0,1.7544946914730748,0,4,1,9,1,0,25.5,Review,"shared device, beneficiary concentration"
+T000369,C0004,B0236,D0086,SG,1166.54,5,0,0,4,0,4.970481785714286,0,9,1,4,0,0,25.5,Review,"unusual amount, shared device"
+T000379,C0057,B0030,D0070,ID,283.61,6,1,0,2,0,0.16900143931382916,0,6,1,6,0,0,25.5,Review,"new beneficiary, shared device"
+T001181,C0092,B0047,D0001,CN,256.5,21,1,0,3,0,0.1617463098021427,0,14,1,5,0,0,25.5,Review,"new beneficiary, shared device"
+T000445,C0077,B0035,D0082,SG,112.26,13,1,0,2,0,0.12287180034129688,0,5,1,6,0,0,25.4,Review,"new beneficiary, shared device"
+T000503,C0145,B0177,D0155,HK,251.19,10,0,1,4,0,1.7147561768530557,0,6,1,6,0,0,25.4,Review,"cross-border, shared device"
+T001108,C0137,B0040,D0146,ID,162.74,21,0,0,3,0,1.7184071937563627,0,7,1,8,1,0,25.4,Review,"shared device, beneficiary concentration"
+T000065,C0062,B0062,D0084,CN,1526.95,17,0,0,3,0,4.884871001955978,0,9,1,3,0,0,25.3,Review,"unusual amount, shared device"
+T000978,C0086,B0125,D0105,HK,573.98,14,0,1,2,0,1.6835556688764233,0,6,1,5,0,0,25.3,Review,"cross-border, shared device"
+T000047,C0067,B0223,D0139,SG,1479.8,3,0,0,3,0,1.6687859815846693,1,7,1,7,0,0,25.2,Review,"odd-hour activity, shared device"
+T000112,C0118,B0091,D0153,ID,181.43,21,1,0,2,0,0.05306632520409754,0,6,1,3,0,0,25.2,Review,"new beneficiary, shared device"
+T000317,C0110,B0126,D0078,ID,178.72,12,1,0,3,0,0.055509588513057664,0,10,1,1,0,0,25.2,Review,"new beneficiary, shared device"
+T000608,C0078,B0125,D0077,SG,177.16,15,1,0,3,0,0.06467765786452352,0,4,1,5,0,0,25.2,Review,"new beneficiary, shared device"
+T000617,C0038,B0061,D0096,ID,262.03,10,0,0,1,0,1.6581525041538088,0,7,1,8,1,0,25.2,Review,"shared device, beneficiary concentration"
+T001152,C0076,B0195,D0094,US,414.13,19,0,0,3,0,1.6705215839817618,0,8,1,9,1,0,25.2,Review,"shared device, beneficiary concentration"
+T000138,C0005,B0077,D0090,CN,350.39,14,0,0,3,0,1.6364219262458999,0,4,1,9,1,0,25.1,Review,"shared device, beneficiary concentration"
+T000526,C0047,B0203,D0033,TH,118.18,20,1,0,2,0,0.036629915165025735,0,5,1,3,0,0,25.1,Review,"new beneficiary, shared device"
+T000550,C0103,B0187,D0093,ID,393.37,11,0,1,5,0,1.6327635690277602,0,4,1,6,0,0,25.1,Review,"cross-border, shared device"
+T000712,C0079,B0230,D0137,SG,112.84,16,1,0,4,0,0.017268345917885924,0,9,1,6,0,0,25.1,Review,"new beneficiary, shared device"
+T000033,C0014,B0252,D0030,HK,29.97,10,1,0,4,0,-1.1609173441734413,0,4,1,3,0,0,25.0,Review,"new beneficiary, shared device"
+T000125,C0129,B0225,D0012,ID,92.34,6,1,0,6,0,0.0,0,6,1,4,0,0,25.0,Review,"new beneficiary, shared device"
+T000145,C0149,B0049,D0145,DE,26.43,6,1,0,1,0,-1.4624068652849738,0,5,1,5,0,0,25.0,Review,"new beneficiary, shared device"
+T000151,C0129,B0016,D0002,MY,88.02,17,1,0,2,0,-0.08351504729148768,0,12,1,6,0,0,25.0,Review,"new beneficiary, shared device"
+T000203,C0075,B0078,D0140,MY,48.19,22,1,0,2,0,-1.812209715475365,0,8,1,4,0,0,25.0,Review,"new beneficiary, shared device"
+T000217,C0012,B0165,D0178,ID,188.51,22,1,0,3,0,0.0,0,8,1,6,0,0,25.0,Review,"new beneficiary, shared device"
+T000219,C0068,B0223,D0118,CN,59.8,19,1,1,2,0,-0.6753192307692307,0,3,0,7,0,0,25.0,Review,"new beneficiary, cross-border"
+T000236,C0108,B0027,D0005,US,59.28,18,1,0,2,0,-0.7176445533548907,0,6,1,5,0,0,25.0,Review,"new beneficiary, shared device"
+T000300,C0004,B0218,D0022,ID,50.64,21,1,0,4,0,-0.6887253571428572,0,8,1,5,0,0,25.0,Review,"new beneficiary, shared device"
+T000312,C0101,B0060,D0003,HK,241.08,20,0,1,3,0,1.5964561222145641,0,9,1,5,0,0,25.0,Review,"cross-border, shared device"
+T000320,C0116,B0120,D0030,ID,36.41,17,1,0,3,0,-0.7317731324278439,0,4,1,5,0,0,25.0,Review,"new beneficiary, shared device"
+T000332,C0056,B0003,D0094,US,90.88,8,1,0,4,0,-0.7303503184713376,0,8,1,4,0,0,25.0,Review,"new beneficiary, shared device"
+T000439,C0013,B0048,D0039,SG,31.94,6,1,0,5,0,-0.8432900597102583,0,12,1,6,0,0,25.0,Review,"new beneficiary, shared device"
+T000468,C0090,B0176,D0029,HK,221.18,7,1,0,3,0,0.0,0,7,1,4,0,0,25.0,Review,"new beneficiary, shared device"
+T000510,C0036,B0055,D0063,NL,158.22,5,1,0,1,0,-0.19181650674454173,0,5,1,5,0,0,25.0,Review,"new beneficiary, shared device"
+T000596,C0121,B0053,D0113,TH,31.81,17,1,0,4,0,-0.7401501704478665,0,10,1,5,0,0,25.0,Review,"new beneficiary, shared device"
+T000616,C0096,B0029,D0083,ID,69.35,15,1,0,2,0,-0.4491033232229988,0,5,1,7,0,0,25.0,Review,"new beneficiary, shared device"
+T000618,C0040,B0066,D0039,HK,70.62,20,1,0,5,0,-1.2198897861522355,0,12,1,7,0,0,25.0,Review,"new beneficiary, shared device"
+T000651,C0074,B0022,D0150,CN,139.54,8,1,0,2,0,-0.39276861298772936,0,8,1,4,0,0,25.0,Review,"new beneficiary, shared device"
+T000656,C0080,B0221,D0086,HK,66.71,18,1,0,1,0,-0.6060329654084952,0,9,1,6,0,0,25.0,Review,"new beneficiary, shared device"
+T000657,C0115,B0098,D0144,CN,85.88,12,1,0,2,0,-0.2557155179462023,0,10,1,3,0,0,25.0,Review,"new beneficiary, shared device"
+T000703,C0026,B0187,D0003,MY,40.82,16,1,0,2,0,-0.7653386709785103,0,9,1,6,0,0,25.0,Review,"new beneficiary, shared device"
+T000732,C0063,B0125,D0083,CN,125.36,5,1,0,2,0,0.0,0,5,1,5,0,0,25.0,Review,"new beneficiary, shared device"
+T000865,C0127,B0153,D0095,HK,51.65,19,1,0,2,0,-0.4755986415948683,0,7,1,7,0,0,25.0,Review,"new beneficiary, shared device"
+T000872,C0031,B0168,D0074,HK,396.6,13,1,0,2,0,0.0,0,6,1,4,0,0,25.0,Review,"new beneficiary, shared device"
+T000897,C0077,B0244,D0038,DE,48.17,9,1,0,3,0,-0.6148194112627986,0,8,1,6,0,0,25.0,Review,"new beneficiary, shared device"
+T000903,C0033,B0045,D0108,SG,196.73,17,1,0,1,0,0.0,0,8,1,4,0,0,25.0,Review,"new beneficiary, shared device"
+T000905,C0069,B0226,D0022,GB,129.28,22,1,0,2,0,-0.3205073905450917,0,8,1,1,0,0,25.0,Review,"new beneficiary, shared device"
+T000907,C0062,B0199,D0050,NL,125.26,8,1,0,3,0,-0.32430779084823264,0,5,1,2,0,0,25.0,Review,"new beneficiary, shared device"
+T000919,C0039,B0142,D0046,ID,70.67,10,1,0,2,0,0.0,0,4,1,5,0,0,25.0,Review,"new beneficiary, shared device"
+T000933,C0039,B0135,D0045,CN,49.77,9,1,0,2,0,-0.6745,0,7,1,4,0,0,25.0,Review,"new beneficiary, shared device"
+T000958,C0096,B0164,D0157,GB,44.01,10,1,0,3,0,-0.6745,0,4,1,3,0,0,25.0,Review,"new beneficiary, shared device"
+T001008,C0076,B0218,D0115,GB,166.53,8,1,0,2,0,0.0151099767061507,0,7,1,5,0,0,25.0,Review,"new beneficiary, shared device"
+T001023,C0131,B0007,D0108,ID,20.03,14,1,0,2,0,-1.1309596955033634,0,8,1,6,0,0,25.0,Review,"new beneficiary, shared device"
+T001062,C0104,B0259,D0170,HK,270.94,22,1,0,4,0,0.0,0,8,1,5,0,0,25.0,Review,"new beneficiary, shared device"
+T001102,C0071,B0038,D0115,MY,71.91,15,1,0,3,0,-0.8796953286749483,0,7,1,3,0,0,25.0,Review,"new beneficiary, shared device"
+T001111,C0095,B0073,D0174,GB,35.04,9,1,0,4,0,-1.6229737016574586,0,9,1,7,0,0,25.0,Review,"new beneficiary, shared device"
+T001154,C0137,B0121,D0128,MY,65.48,17,1,0,2,0,-0.5076487953851373,0,6,1,4,0,0,25.0,Review,"new beneficiary, shared device"
+T001160,C0052,B0054,D0084,MY,69.04,10,1,0,2,0,-1.328044306362286,0,9,1,4,0,0,25.0,Review,"new beneficiary, shared device"
+T001170,C0138,B0046,D0045,ID,68.16,22,1,0,3,0,-0.28153256914119357,0,7,1,6,0,0,25.0,Review,"new beneficiary, shared device"
+T001195,C0079,B0123,D0045,CN,109.47,20,1,0,5,0,-0.036366977347805515,0,7,1,3,0,0,25.0,Review,"new beneficiary, shared device"
+T000015,C0108,B0020,D0001,DE,226.44,11,0,1,3,0,1.5610421887631365,0,14,1,3,0,0,24.9,Low,"cross-border, shared device"
+T000485,C0070,B0093,D0064,ID,381.62,22,0,1,3,0,1.5523443009923887,0,4,1,1,0,0,24.9,Low,"cross-border, shared device"
+T000637,C0036,B0244,D0144,CN,347.53,4,0,0,1,0,1.5838696982339038,1,10,1,6,0,0,24.9,Low,"odd-hour activity, shared device"
+T000546,C0009,B0254,D0020,ID,463.11,10,0,0,4,0,4.751488452538408,0,7,1,5,0,0,24.8,Low,"unusual amount, shared device"
+T000348,C0141,B0221,D0145,TH,848.63,0,0,0,4,0,1.517768193783967,1,5,1,6,0,0,24.7,Low,"odd-hour activity, shared device"
+T000497,C0018,B0122,D0119,GB,327.83,21,0,1,3,0,1.4335025642470693,0,5,1,7,0,0,24.5,Low,"cross-border, shared device"
+T001012,C0120,B0201,D0177,NL,511.35,21,0,0,6,0,1.400816383561644,0,7,1,8,1,0,24.4,Low,"shared device, beneficiary concentration"
+T001175,C0002,B0182,D0171,HK,531.91,5,0,1,3,0,1.385904422351731,0,1,0,9,1,0,24.3,Low,"cross-border, beneficiary concentration"
+T000632,C0050,B0247,D0049,GB,590.68,8,0,0,5,0,1.3353440336837075,0,6,1,8,1,0,24.2,Low,"shared device, beneficiary concentration"
+T001047,C0036,B0150,D0058,ID,322.22,0,0,0,3,0,1.346467459324156,1,6,1,3,0,0,24.2,Low,"odd-hour activity, shared device"
+T001178,C0029,B0036,D0154,GB,259.5,12,0,0,4,0,1.3345168711656443,0,5,1,8,1,0,24.2,Low,"shared device, beneficiary concentration"
+T000055,C0075,B0169,D0149,DE,724.88,20,0,0,2,0,4.5226605829285225,0,8,1,6,0,0,24.1,Low,"unusual amount, shared device"
+T000987,C0093,B0080,D0139,GB,220.34,17,0,1,1,0,1.2548602809324583,0,7,1,6,0,0,23.9,Low,"cross-border, shared device"
+T001081,C0139,B0198,D0144,ID,831.17,13,0,0,3,0,4.456720560657787,0,10,1,5,0,0,23.9,Low,"unusual amount, shared device"
+T000549,C0078,B0209,D0096,ID,361.17,18,0,1,3,0,1.2046523536165328,0,7,1,2,0,0,23.8,Low,"cross-border, shared device"
+T000749,C0047,B0001,D0178,SG,260.22,8,0,0,4,0,1.22315514892563,0,8,1,9,1,0,23.8,Low,"shared device, beneficiary concentration"
+T001088,C0149,B0213,D0172,MY,180.44,0,0,0,3,0,1.2287782383419685,1,6,1,3,0,0,23.8,Low,"odd-hour activity, shared device"
+T001056,C0150,B0178,D0003,MY,491.09,9,0,0,2,0,4.382040286877988,0,9,1,3,0,0,23.7,Low,"unusual amount, shared device"
+T000198,C0018,B0170,D0130,SG,289.58,17,0,0,2,0,1.1427042662308387,0,5,1,9,1,0,23.6,Low,"shared device, beneficiary concentration"
+T000017,C0077,B0132,D0111,US,477.84,19,0,0,1,0,4.330784940273037,0,10,1,5,0,0,23.5,Low,"unusual amount, shared device"
+T000474,C0071,B0197,D0040,DE,301.77,3,0,0,1,0,1.1265232272256729,1,5,1,4,0,0,23.5,Low,"odd-hour activity, shared device"
+T000157,C0019,B0090,D0143,CN,391.27,4,0,0,2,0,1.0759773260687344,1,11,1,6,0,0,23.4,Low,"odd-hour activity, shared device"
+T000524,C0124,B0190,D0097,ID,187.98,12,0,1,3,0,1.0493987005058434,0,9,1,4,0,0,23.3,Low,"cross-border, shared device"
+T000601,C0093,B0015,D0140,CN,211.02,23,0,0,3,0,1.0669840107591169,1,8,1,4,0,0,23.3,Low,"odd-hour activity, shared device"
+T000323,C0093,B0050,D0021,ID,208.93,12,0,1,3,0,1.0248529587567259,0,6,1,5,0,0,23.2,Low,"cross-border, shared device"
+T000381,C0001,B0077,D0056,US,170.41,16,0,0,2,0,1.022951517857143,0,7,1,9,1,0,23.2,Low,"shared device, beneficiary concentration"
+T000469,C0028,B0138,D0155,GB,338.64,5,0,0,6,0,1.0232317125460935,0,6,1,9,1,0,23.2,Low,"shared device, beneficiary concentration"
+T000758,C0058,B0138,D0179,ID,304.4,5,0,0,1,0,1.0153527635856947,0,6,1,9,1,0,23.2,Low,"shared device, beneficiary concentration"
+T000037,C0129,B0002,D0002,ID,143.67,7,0,1,4,0,0.9923211521926051,0,12,1,5,0,0,23.1,Low,"cross-border, shared device"
+T000321,C0049,B0224,D0113,ID,389.99,3,0,0,3,0,0.9951264020070838,1,10,1,5,0,0,23.1,Low,"odd-hour activity, shared device"
+T001129,C0084,B0007,D0034,SG,429.88,22,0,1,3,0,0.955493027358051,0,12,1,6,0,0,23.0,Low,"cross-border, shared device"
+T000349,C0028,B0128,D0075,US,320.09,14,0,1,3,0,0.9159340965611865,0,8,1,4,0,0,22.9,Low,"cross-border, shared device"
+T000490,C0091,B0025,D0035,SG,430.23,0,0,0,3,0,0.9362659477422298,1,10,1,4,0,0,22.9,Low,"odd-hour activity, shared device"
+T001039,C0066,B0124,D0168,SG,184.82,9,0,1,3,0,0.9262036585365854,0,11,1,5,0,0,22.9,Low,"cross-border, shared device"
+T000069,C0012,B0247,D0005,HK,295.21,12,0,0,4,0,0.8963650516876323,0,6,1,8,1,0,22.8,Low,"shared device, beneficiary concentration"
+T000390,C0023,B0008,D0150,MY,175.13,5,0,1,3,0,0.8833431225370612,0,8,1,5,0,0,22.8,Low,"cross-border, shared device"
+T000659,C0011,B0136,D0070,ID,570.96,9,0,1,4,0,0.8807523582433706,0,6,1,3,0,0,22.8,Low,"cross-border, shared device"
+T000117,C0006,B0184,D0124,CN,616.19,23,0,0,2,0,0.8752052095929063,1,5,1,3,0,0,22.7,Low,"odd-hour activity, shared device"
+T000238,C0065,B0170,D0134,ID,430.18,21,0,0,4,0,0.8726841138935708,0,11,1,9,1,0,22.7,Low,"shared device, beneficiary concentration"
+T000663,C0006,B0220,D0069,ID,1794.96,15,0,0,3,0,4.079882214832729,0,6,1,6,0,0,22.7,Low,"unusual amount, shared device"
+T000606,C0081,B0012,D0067,ID,351.81,7,0,1,2,0,0.8223872413581385,0,11,1,4,0,0,22.6,Low,"cross-border, shared device"
+T000811,C0007,B0129,D0172,NL,279.17,16,0,1,3,0,0.8332550662929827,0,6,1,5,0,0,22.6,Low,"cross-border, shared device"
+T000856,C0128,B0095,D0034,MY,881.15,21,0,1,4,0,0.8193105993765072,0,12,1,3,0,0,22.6,Low,"cross-border, shared device"
+T000678,C0013,B0233,D0146,ID,282.91,0,0,0,2,0,0.81371135963195,1,7,1,5,0,0,22.5,Low,"odd-hour activity, shared device"
+T001001,C0122,B0095,D0146,TH,445.49,18,0,1,4,0,0.7974220553758494,0,7,1,3,0,0,22.5,Low,"cross-border, shared device"
+T000263,C0045,B0013,D0027,HK,427.76,17,0,1,2,0,0.7528066221961085,0,5,1,7,0,0,22.4,Low,"cross-border, shared device"
+T000671,C0143,B0012,D0076,HK,637.89,2,0,0,3,0,0.7596058029211448,1,8,1,4,0,0,22.4,Low,"odd-hour activity, shared device"
+T000779,C0041,B0015,D0039,ID,289.51,13,0,1,2,0,0.769305270863836,0,12,1,4,0,0,22.4,Low,"cross-border, shared device"
+T001043,C0063,B0118,D0082,SG,199.56,22,0,0,5,0,0.7532796508127633,0,5,1,9,1,0,22.4,Low,"shared device, beneficiary concentration"
+T000066,C0049,B0010,D0035,DE,336.79,21,0,1,1,0,0.7303433441558443,0,10,1,4,0,0,22.3,Low,"cross-border, shared device"
+T000778,C0018,B0089,D0054,DE,237.57,13,0,0,4,0,0.7472946066275926,0,7,1,9,1,0,22.3,Low,"shared device, beneficiary concentration"
+T000180,C0076,B0141,D0102,ID,746.94,20,0,0,1,0,3.895632799722457,0,11,1,3,0,0,22.2,Low,"unusual amount, shared device"
+T000229,C0083,B0070,D0111,HK,256.38,2,0,0,2,0,0.6939603119823302,1,10,1,4,0,0,22.2,Low,"odd-hour activity, shared device"
+T000569,C0097,B0018,D0129,SG,556.76,23,0,0,1,0,0.6899243120520816,1,4,1,3,0,0,22.2,Low,"odd-hour activity, shared device"
+T000797,C0146,B0144,D0041,ID,190.0,20,0,0,4,0,0.6966070432357043,0,10,1,9,1,0,22.2,Low,"shared device, beneficiary concentration"
+T000178,C0025,B0195,D0081,MY,187.75,18,0,0,1,0,0.6745,0,10,1,9,1,0,22.1,Low,"shared device, beneficiary concentration"
+T000183,C0075,B0090,D0053,DE,313.82,14,0,1,3,0,0.6745,0,4,1,6,0,0,22.1,Low,"cross-border, shared device"
+T000480,C0017,B0134,D0175,CN,168.92,23,0,0,3,0,0.6745,1,6,1,7,0,0,22.1,Low,"odd-hour activity, shared device"
+T000683,C0144,B0047,D0050,ID,351.34,12,0,1,2,0,0.6745,0,5,1,5,0,0,22.1,Low,"cross-border, shared device"
+T000784,C0019,B0195,D0011,ID,320.26,5,0,0,2,0,0.6745,0,11,1,9,1,0,22.1,Low,"shared device, beneficiary concentration"
+T000821,C0004,B0079,D0126,NL,316.64,23,0,1,2,0,0.6602746428571428,1,2,0,7,0,0,22.1,Low,"cross-border, odd-hour activity"
+T000826,C0014,B0123,D0139,SG,220.75,0,0,0,1,0,0.6745,1,7,1,3,0,0,22.1,Low,"odd-hour activity, shared device"
+T000991,C0052,B0094,D0046,DE,288.83,18,0,0,2,0,0.6745,0,4,1,8,1,0,22.1,Low,"shared device, beneficiary concentration"
+T001005,C0020,B0118,D0071,ID,237.4,9,0,0,5,0,0.6745,0,8,1,9,1,0,22.1,Low,"shared device, beneficiary concentration"
+T001149,C0104,B0053,D0056,MY,350.94,7,0,1,3,0,0.6745,0,7,1,5,0,0,22.1,Low,"cross-border, shared device"
+T000487,C0051,B0111,D0167,NL,506.94,0,0,0,4,0,0.6468050847457627,1,12,1,5,0,0,22.0,Low,"odd-hour activity, shared device"
+T000611,C0126,B0064,D0067,GB,222.42,12,0,0,3,0,0.645941946748145,0,11,1,10,1,0,22.0,Low,"shared device, beneficiary concentration"
+T000720,C0090,B0138,D0156,ID,348.36,15,0,0,5,0,0.6537335009907025,0,9,1,9,1,0,22.0,Low,"shared device, beneficiary concentration"
+T000891,C0015,B0230,D0073,MY,120.21,0,0,0,3,0,0.6499791886195995,1,9,1,6,0,0,22.0,Low,"odd-hour activity, shared device"
+T000740,C0135,B0054,D0089,HK,261.69,7,0,1,3,0,0.5951701337628059,0,7,1,4,0,0,21.9,Low,"cross-border, shared device"
+T001089,C0098,B0243,D0080,ID,213.11,0,0,0,4,0,0.6120538917604136,1,4,1,6,0,0,21.9,Low,"odd-hour activity, shared device"
+T001128,C0096,B0044,D0017,CN,189.6,6,0,1,2,0,0.6205079783726756,0,6,1,3,0,0,21.9,Low,"cross-border, shared device"
+T000048,C0134,B0121,D0116,CN,135.68,4,0,0,4,0,0.554103728941889,1,4,1,4,0,0,21.7,Low,"odd-hour activity, shared device"
+T000240,C0095,B0248,D0153,US,394.12,12,0,0,3,0,3.729500552486188,0,6,1,4,0,0,21.7,Low,"unusual amount, shared device"
+T000252,C0075,B0011,D0158,ID,295.92,21,0,1,1,0,0.5069281748785568,0,5,1,4,0,0,21.6,Low,"cross-border, shared device"
+T000572,C0063,B0098,D0010,SG,174.43,2,0,0,2,0,0.4981594671884406,1,7,1,3,0,0,21.6,Low,"odd-hour activity, shared device"
+T000799,C0048,B0073,D0176,MY,299.27,11,0,1,3,0,0.503617404737384,0,7,1,7,0,0,21.6,Low,"cross-border, shared device"
+T000245,C0095,B0037,D0081,TH,177.17,23,0,0,2,0,0.4956270718232044,1,10,1,2,0,0,21.5,Low,"odd-hour activity, shared device"
+T000507,C0080,B0255,D0112,HK,1017.41,20,0,0,1,0,3.6070162116881836,0,5,1,5,0,0,21.3,Low,"unusual amount, shared device"
+T000691,C0150,B0048,D0062,MY,424.99,10,0,0,2,0,3.5925157605808393,0,7,1,6,0,0,21.2,Low,"unusual amount, shared device"
+T000267,C0068,B0165,D0044,HK,97.68,22,0,1,1,0,0.359096153846154,0,10,1,6,0,0,21.1,Low,"cross-border, shared device"
+T000573,C0043,B0094,D0108,SG,771.33,5,0,0,3,0,0.3676782594788772,0,8,1,8,1,0,21.1,Low,"shared device, beneficiary concentration"
+T001007,C0128,B0035,D0064,SG,652.27,2,0,0,3,0,0.36527977766013764,1,4,1,6,0,0,21.1,Low,"odd-hour activity, shared device"
+T001044,C0056,B0029,D0040,ID,202.9,4,0,0,2,0,0.3511281042009594,1,5,1,7,0,0,21.1,Low,"odd-hour activity, shared device"
+T000414,C0020,B0180,D0173,HK,191.83,13,0,1,5,0,0.3106197466556174,0,8,1,1,0,0,21.0,Low,"cross-border, shared device"
+T000415,C0003,B0016,D0036,MY,177.26,19,0,1,3,0,0.3163534798534797,0,7,1,6,0,0,21.0,Low,"cross-border, shared device"
+T001032,C0026,B0019,D0138,HK,116.81,1,0,0,1,0,0.30403865011475073,1,8,1,4,0,0,21.0,Low,"odd-hour activity, shared device"
+T000081,C0142,B0192,D0117,HK,167.11,0,0,0,3,0,0.2822925340990675,1,6,1,7,0,0,20.9,Low,"odd-hour activity, shared device"
+T000371,C0051,B0021,D0119,SG,393.86,15,0,1,2,0,0.28264915254237283,0,5,1,2,0,0,20.9,Low,"cross-border, shared device"
+T000701,C0079,B0139,D0066,ID,130.68,14,0,0,5,0,0.30120133317602665,0,5,1,8,1,0,20.9,Low,"shared device, beneficiary concentration"
+T000837,C0122,B0152,D0066,HK,314.32,4,0,0,4,0,0.27230608065999934,1,5,1,5,0,0,20.9,Low,"odd-hour activity, shared device"
+T000871,C0069,B0050,D0030,CN,200.56,10,0,1,3,0,0.2791977360608706,0,4,1,5,0,0,20.9,Low,"cross-border, shared device"
+T001064,C0106,B0134,D0010,ID,408.16,12,0,1,1,0,0.2864799796790114,0,7,1,7,0,0,20.9,Low,"cross-border, shared device"
+T000648,C0081,B0141,D0137,SG,282.88,0,0,0,2,0,0.25146214772517966,1,9,1,3,0,0,20.8,Low,"odd-hour activity, shared device"
+T000962,C0062,B0064,D0134,MY,277.96,8,0,0,5,0,0.24317974324361558,0,11,1,10,1,0,20.8,Low,"shared device, beneficiary concentration"
+T001136,C0009,B0140,D0014,HK,135.1,4,0,1,2,0,0.24965215179570655,1,3,0,4,0,0,20.8,Low,"cross-border, odd-hour activity"
+T000894,C0148,B0052,D0052,TH,348.71,3,0,0,1,0,0.21026405308944887,1,7,1,3,0,0,20.7,Low,"odd-hour activity, shared device"
+T000068,C0056,B0097,D0122,ID,517.51,6,0,0,3,0,3.3884779217061487,0,8,1,4,0,0,20.6,Low,"unusual amount, shared device"
+T000265,C0149,B0221,D0039,SG,120.73,18,0,1,1,0,0.1854001295336787,0,12,1,6,0,0,20.6,Low,"cross-border, shared device"
+T000638,C0045,B0079,D0028,CN,306.65,6,0,1,1,0,0.18813171810735158,0,6,1,7,0,0,20.6,Low,"cross-border, shared device"
+T001087,C0121,B0235,D0061,ID,149.18,15,0,1,2,0,0.1904489244151876,0,8,1,3,0,0,20.6,Low,"cross-border, shared device"
+T000039,C0042,B0078,D0152,US,140.71,23,0,0,2,0,0.14869292881032,1,5,1,4,0,0,20.5,Low,"odd-hour activity, shared device"
+T000562,C0007,B0106,D0076,ID,626.92,7,0,0,3,0,3.3616303492508344,0,8,1,5,0,0,20.5,Low,"unusual amount, shared device"
+T001097,C0126,B0044,D0019,TH,180.62,11,0,1,6,0,0.1536835443037976,0,9,1,3,0,0,20.5,Low,"cross-border, shared device"
+T001162,C0075,B0195,D0031,TH,257.74,13,0,0,3,0,0.14950402498265095,0,9,1,9,1,0,20.5,Low,"shared device, beneficiary concentration"
+T000251,C0027,B0077,D0158,TH,261.1,11,0,0,3,0,0.1422576424015835,0,5,1,9,1,0,20.4,Low,"shared device, beneficiary concentration"
+T000358,C0134,B0201,D0114,ID,119.45,9,0,0,1,0,0.1396749952678402,0,5,1,8,1,0,20.4,Low,"shared device, beneficiary concentration"
+T000587,C0104,B0052,D0134,TH,286.24,23,0,0,3,0,0.1289981250000001,1,11,1,3,0,0,20.4,Low,"odd-hour activity, shared device"
+T000902,C0007,B0173,D0048,HK,620.86,20,0,0,2,0,3.317570092702382,0,5,1,2,0,0,20.4,Low,"unusual amount, shared device"
+T000054,C0071,B0206,D0085,US,183.19,1,0,0,3,0,0.09155674171842659,1,7,1,5,0,0,20.3,Low,"odd-hour activity, shared device"
+T000274,C0144,B0054,D0034,DE,239.77,2,0,0,2,0,0.08222890760270744,1,12,1,4,0,0,20.3,Low,"odd-hour activity, shared device"
+T000289,C0082,B0029,D0115,GB,161.64,2,0,0,3,0,0.0909319674695027,1,7,1,7,0,0,20.3,Low,"odd-hour activity, shared device"
+T000470,C0140,B0188,D0037,NL,72.74,23,0,0,3,0,0.08782978938841604,1,9,1,3,0,0,20.3,Low,"odd-hour activity, shared device"
+T000855,C0044,B0186,D0043,HK,154.88,9,0,1,5,0,0.10494628143392185,0,7,1,6,0,0,20.3,Low,"cross-border, shared device"
+T001095,C0050,B0186,D0167,TH,279.98,11,0,1,2,0,0.08374853678929775,0,12,1,6,0,0,20.3,Low,"cross-border, shared device"
+T000777,C0064,B0242,D0111,GB,112.36,11,0,1,3,0,0.077195670414499,0,10,1,5,0,0,20.2,Low,"cross-border, shared device"
+T000003,C0099,B0256,D0134,ID,9.59,17,0,0,4,0,-0.6745,0,11,1,10,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000004,C0066,B0198,D0003,GB,25.36,23,0,0,4,0,-0.713366006097561,1,9,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000022,C0056,B0144,D0136,HK,17.67,15,0,0,4,0,-1.4371440635511343,0,6,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000023,C0028,B0250,D0019,HK,53.62,15,0,0,5,0,-0.6253918188834576,0,9,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000028,C0124,B0256,D0069,HK,41.72,11,0,0,2,0,-0.6713822169893598,0,6,1,10,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000029,C0082,B0040,D0136,MY,144.4,11,0,0,3,0,-0.09093196746950241,0,6,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000030,C0067,B0075,D0049,HK,201.23,12,0,1,4,0,-0.47039774312167,0,6,1,6,0,0,20.0,Low,"cross-border, shared device"
+T000031,C0068,B0213,D0024,HK,71.07,12,0,1,1,0,-0.36756153846153866,0,8,1,3,0,0,20.0,Low,"cross-border, shared device"
+T000040,C0095,B0011,D0012,GB,143.92,4,0,0,3,0,0.0,1,6,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T000042,C0114,B0202,D0001,CN,167.19,19,0,1,1,0,0.0,0,14,1,7,0,0,20.0,Low,"cross-border, shared device"
+T000043,C0106,B0250,D0002,ID,203.98,6,0,0,1,0,-0.28466176958487127,0,12,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000058,C0024,B0144,D0168,SG,281.67,11,0,0,3,0,0.0,0,11,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000064,C0146,B0214,D0105,HK,44.25,23,0,0,4,0,-0.6745,1,6,1,6,0,0,20.0,Low,"odd-hour activity, shared device"
+T000074,C0020,B0175,D0038,TH,20.62,12,0,1,2,0,-1.0565063928021783,0,8,1,6,0,0,20.0,Low,"cross-border, shared device"
+T000084,C0125,B0208,D0058,US,78.97,23,0,0,6,0,-0.5615979364100264,1,6,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000088,C0047,B0061,D0010,ID,43.58,19,0,0,3,0,-0.5865380828534275,0,7,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000104,C0002,B0232,D0020,ID,170.56,0,0,0,2,0,-0.2851999657182036,1,7,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T000105,C0120,B0159,D0010,CN,134.84,23,0,0,1,0,-0.4545698812785387,1,7,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000107,C0118,B0066,D0083,HK,138.1,3,0,0,2,0,-0.250881311424263,1,5,1,7,0,0,20.0,Low,"odd-hour activity, shared device"
+T000109,C0071,B0108,D0073,US,131.76,18,0,0,2,0,-0.3573244047619048,0,9,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000110,C0106,B0221,D0022,NL,60.96,3,0,0,1,0,-0.6847239352216646,1,8,1,6,0,0,20.0,Low,"odd-hour activity, shared device"
+T000111,C0042,B0136,D0036,ID,90.72,0,0,0,1,0,-0.49570754897276637,1,7,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000119,C0037,B0117,D0026,CN,58.31,13,0,0,1,0,-1.01495800445254,0,4,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000122,C0101,B0072,D0008,SG,94.52,14,0,1,5,0,-0.6745,0,4,1,4,0,0,20.0,Low,"cross-border, shared device"
+T000123,C0099,B0143,D0038,HK,47.54,4,0,0,2,0,-0.3803122629582807,1,8,1,2,0,0,20.0,Low,"odd-hour activity, shared device"
+T000124,C0071,B0230,D0072,SG,95.42,2,0,0,2,0,-0.6745,1,4,1,6,0,0,20.0,Low,"odd-hour activity, shared device"
+T000126,C0085,B0049,D0058,ID,75.8,1,0,0,2,0,-0.8067912140384387,1,6,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000127,C0012,B0176,D0084,SG,108.22,4,0,0,3,0,-0.6745,1,9,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T000137,C0091,B0166,D0003,HK,63.73,4,0,0,3,0,-0.6745,1,9,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000141,C0148,B0139,D0052,ID,320.76,7,0,0,1,0,0.0,0,7,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000161,C0150,B0022,D0104,CN,67.75,0,0,0,6,0,-0.6745,1,9,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T000165,C0063,B0144,D0079,GB,76.98,21,0,0,3,0,-0.4911545755568933,0,8,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000169,C0051,B0250,D0068,HK,88.04,18,0,0,4,0,-0.7021949152542374,0,6,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000173,C0116,B0117,D0131,GB,155.19,10,0,0,2,0,-0.37381982173174877,0,7,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000177,C0108,B0250,D0049,HK,65.83,19,0,0,3,0,-0.6283564571544057,0,6,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000181,C0141,B0254,D0069,DE,323.61,18,0,1,3,0,0.014176184612771703,0,6,1,5,0,0,20.0,Low,"cross-border, shared device"
+T000187,C0025,B0146,D0067,ID,42.57,0,0,0,5,0,-0.6765473233995584,1,11,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T000196,C0014,B0154,D0030,US,71.8,1,0,0,3,0,-0.7584878048780486,1,4,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000197,C0052,B0161,D0090,SG,214.8,0,0,0,3,0,0.0,1,4,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000202,C0137,B0063,D0039,HK,87.66,22,0,1,3,0,0.0,0,12,1,5,0,0,20.0,Low,"cross-border, shared device"
+T000211,C0040,B0016,D0174,ID,191.56,0,0,0,3,0,0.0,1,9,1,6,0,0,20.0,Low,"odd-hour activity, shared device"
+T000215,C0111,B0152,D0019,SG,132.43,6,0,1,3,0,-0.4300916252072967,0,9,1,5,0,0,20.0,Low,"cross-border, shared device"
+T000222,C0069,B0258,D0071,ID,80.78,19,0,1,5,0,-0.7285559124360733,0,8,1,3,0,0,20.0,Low,"cross-border, shared device"
+T000225,C0109,B0067,D0165,HK,114.04,0,0,0,2,0,-0.17357810466629492,1,6,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000232,C0129,B0048,D0122,HK,77.88,17,0,1,2,0,-0.279543422184007,0,8,1,6,0,0,20.0,Low,"cross-border, shared device"
+T000237,C0100,B0111,D0061,MY,45.22,10,0,1,2,0,-0.6745,0,8,1,5,0,0,20.0,Low,"cross-border, shared device"
+T000250,C0007,B0027,D0060,SG,72.82,1,0,1,1,0,-0.6670475638676295,1,3,0,5,0,0,20.0,Low,"cross-border, odd-hour activity"
+T000254,C0050,B0064,D0067,DE,55.64,16,0,0,2,0,-0.8199622252747253,0,11,1,10,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000257,C0102,B0256,D0011,TH,38.01,12,0,0,3,0,-0.6745,0,11,1,10,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000259,C0027,B0069,D0121,ID,65.25,16,0,1,3,0,-0.8261524814896269,0,6,1,6,0,0,20.0,Low,"cross-border, shared device"
+T000261,C0120,B0205,D0078,MY,45.58,15,0,1,4,0,-0.8944301187214612,0,10,1,2,0,0,20.0,Low,"cross-border, shared device"
+T000264,C0139,B0014,D0089,ID,40.38,5,0,1,3,0,-0.6727486416310046,0,7,1,6,0,0,20.0,Low,"cross-border, shared device"
+T000268,C0053,B0100,D0173,TH,83.62,15,0,1,2,0,-0.6745000000000001,0,8,1,4,0,0,20.0,Low,"cross-border, shared device"
+T000273,C0023,B0117,D0153,ID,105.34,14,0,0,2,0,0.0,0,6,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000278,C0118,B0103,D0158,ID,154.66,14,0,0,6,0,-0.13471761738859145,0,5,1,10,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000282,C0073,B0001,D0019,ID,410.34,10,0,0,3,0,-0.5195327325186849,0,9,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000290,C0072,B0132,D0176,HK,28.18,3,0,0,3,0,-0.956784294581212,1,7,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000302,C0124,B0068,D0143,ID,91.4,0,0,0,2,0,-0.08688614163614153,1,11,1,2,0,0,20.0,Low,"odd-hour activity, shared device"
+T000314,C0043,B0086,D0094,CN,63.83,21,0,1,4,0,-0.8064691951873633,0,8,1,3,0,0,20.0,Low,"cross-border, shared device"
+T000322,C0017,B0185,D0120,ID,102.48,13,0,1,2,0,-0.07917944836865108,0,4,1,3,0,0,20.0,Low,"cross-border, shared device"
+T000327,C0036,B0083,D0025,SG,105.91,6,0,0,5,0,-0.6824728132387707,0,5,1,10,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000328,C0006,B0036,D0008,SG,165.25,12,0,0,2,0,-0.3507481559854897,0,4,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000329,C0022,B0006,D0105,ID,49.79,5,0,1,3,0,-0.6422641558441559,0,6,1,4,0,0,20.0,Low,"cross-border, shared device"
+T000340,C0143,B0161,D0062,DE,124.28,3,0,0,5,0,-0.604237923703791,1,7,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000342,C0044,B0063,D0018,SG,21.83,18,0,1,1,0,-0.8553771535580525,0,9,1,5,0,0,20.0,Low,"cross-border, shared device"
+T000356,C0149,B0043,D0156,DE,98.88,22,0,0,1,0,-0.19640880829015556,0,9,1,10,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000362,C0134,B0066,D0078,ID,82.85,3,0,0,4,0,-0.7948962710581109,1,10,1,7,0,0,20.0,Low,"odd-hour activity, shared device"
+T000376,C0015,B0083,D0055,CN,54.11,12,0,0,1,0,-0.2896298735511064,0,5,1,10,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000380,C0040,B0156,D0009,TH,124.69,0,0,0,5,0,-0.6745,1,5,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000383,C0143,B0134,D0137,DE,351.83,6,0,1,4,0,0.0,0,9,1,7,0,0,20.0,Low,"cross-border, shared device"
+T000397,C0007,B0171,D0156,ID,114.29,13,0,0,4,0,-0.36553290395602017,0,9,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000398,C0030,B0188,D0102,HK,151.26,3,0,0,2,0,-0.29776433685276255,1,11,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000399,C0043,B0219,D0127,ID,143.35,3,0,0,2,0,-0.6745,1,9,1,2,0,0,20.0,Low,"odd-hour activity, shared device"
+T000402,C0117,B0192,D0080,MY,156.99,0,0,0,3,0,-0.6520898001858736,1,4,1,7,0,0,20.0,Low,"odd-hour activity, shared device"
+T000404,C0146,B0083,D0012,ID,115.95,7,0,0,3,0,0.0,0,6,1,10,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000405,C0075,B0033,D0031,SG,241.77,19,0,1,4,0,0.0,0,9,1,6,0,0,20.0,Low,"cross-border, shared device"
+T000409,C0141,B0062,D0142,ID,318.66,2,0,0,3,0,0.0,1,6,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000424,C0088,B0005,D0175,ID,79.72,0,0,0,3,0,-1.3064062926991393,1,6,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T000425,C0063,B0144,D0111,NL,87.85,6,0,0,3,0,-0.3808021523178807,0,10,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000441,C0146,B0187,D0079,SG,82.77,17,0,1,5,0,-0.3121326359832637,0,8,1,6,0,0,20.0,Low,"cross-border, shared device"
+T000447,C0048,B0089,D0155,ID,112.38,14,0,0,2,0,-0.4950144973461143,0,6,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000448,C0144,B0172,D0070,CN,186.02,15,0,1,4,0,-0.20310380922398866,0,6,1,4,0,0,20.0,Low,"cross-border, shared device"
+T000457,C0023,B0220,D0102,MY,89.05,16,0,1,2,0,-0.206185119159317,0,11,1,6,0,0,20.0,Low,"cross-border, shared device"
+T000460,C0016,B0066,D0080,SG,66.98,1,0,0,1,0,-0.6745,1,4,1,7,0,0,20.0,Low,"odd-hour activity, shared device"
+T000461,C0109,B0161,D0035,GB,52.09,16,0,1,3,0,-0.5619892870422012,0,10,1,5,0,0,20.0,Low,"cross-border, shared device"
+T000467,C0025,B0195,D0057,US,90.53,8,0,0,3,0,-0.2302308222958057,0,4,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000479,C0100,B0240,D0156,NL,19.64,23,0,0,4,0,-0.9108521917808219,1,9,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000482,C0125,B0004,D0043,ID,49.12,5,0,1,3,0,-0.7874020635899736,0,7,1,1,0,0,20.0,Low,"cross-border, shared device"
+T000483,C0038,B0010,D0101,SG,158.46,2,0,0,1,0,0.0,1,8,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T000491,C0140,B0201,D0027,TH,55.79,22,0,0,4,0,-0.37522306601863115,0,5,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000500,C0064,B0250,D0037,GB,105.54,19,0,0,2,0,-0.077195670414499,0,9,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000502,C0098,B0047,D0144,US,41.3,23,0,0,3,0,-1.1496646397081183,1,10,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000509,C0041,B0064,D0023,CN,155.48,17,0,0,4,0,-0.4339854918141888,0,9,1,10,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000513,C0127,B0228,D0003,SG,106.81,14,0,0,1,0,-0.0076353688447267955,0,9,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000516,C0016,B0228,D0079,SG,86.63,18,0,0,2,0,-0.37970629448398585,0,8,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000518,C0010,B0099,D0170,US,30.53,2,0,0,2,0,-0.6745,1,8,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000525,C0048,B0139,D0076,ID,57.79,20,0,0,1,0,-0.7867118355383032,0,8,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000531,C0090,B0202,D0032,CN,37.29,0,0,0,3,0,-0.9452355204999237,1,6,1,7,0,0,20.0,Low,"odd-hour activity, shared device"
+T000539,C0082,B0001,D0162,CN,109.6,5,0,0,2,0,-0.45803550203315596,0,5,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000544,C0027,B0006,D0034,SG,17.51,0,0,0,1,0,-1.0622101752070965,1,12,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T000556,C0076,B0083,D0179,US,162.31,9,0,0,1,0,-0.013104227585864959,0,6,1,10,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000566,C0036,B0243,D0107,GB,117.75,12,0,1,1,0,-0.5714162147128355,0,4,1,6,0,0,20.0,Low,"cross-border, shared device"
+T000570,C0086,B0051,D0115,HK,280.3,2,0,0,3,0,0.0,1,7,1,1,0,0,20.0,Low,"odd-hour activity, shared device"
+T000574,C0008,B0103,D0176,ID,123.81,7,0,0,2,0,-0.5976701221011227,0,7,1,10,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000584,C0008,B0248,D0148,ID,231.94,2,0,0,2,0,0.0,1,6,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T000592,C0136,B0229,D0115,US,59.12,17,0,1,2,0,-0.6725314846705851,0,7,1,4,0,0,20.0,Low,"cross-border, shared device"
+T000595,C0049,B0124,D0138,CN,39.5,1,0,0,2,0,-0.7493061909681226,1,8,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000603,C0111,B0118,D0167,US,39.03,16,0,0,1,0,-1.1763401445155177,0,12,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000612,C0070,B0170,D0091,TH,113.7,12,0,0,2,0,-0.18878721456787745,0,9,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000619,C0010,B0036,D0108,ID,45.39,16,0,0,5,0,-0.2126073732718893,0,8,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000621,C0066,B0081,D0003,ID,27.0,2,0,0,3,0,-0.6965035060975611,1,9,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000623,C0025,B0079,D0070,US,115.27,22,0,1,2,0,0.0,0,6,1,7,0,0,20.0,Low,"cross-border, shared device"
+T000629,C0076,B0160,D0041,CN,166.23,16,0,1,4,0,0.013104227585865148,0,10,1,4,0,0,20.0,Low,"cross-border, shared device"
+T000630,C0055,B0255,D0161,US,42.26,11,0,1,5,0,-1.033319485953377,0,5,1,5,0,0,20.0,Low,"cross-border, shared device"
+T000631,C0111,B0092,D0132,DE,125.23,3,0,0,5,0,-0.4876182776593224,1,6,1,2,0,0,20.0,Low,"odd-hour activity, shared device"
+T000635,C0028,B0107,D0018,GB,45.13,16,0,1,3,0,-0.6745,0,9,1,6,0,0,20.0,Low,"cross-border, shared device"
+T000640,C0143,B0144,D0036,US,213.42,17,0,0,1,0,-0.36753491988504383,0,7,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000641,C0101,B0111,D0003,TH,138.05,11,0,1,2,0,0.0,0,9,1,5,0,0,20.0,Low,"cross-border, shared device"
+T000643,C0129,B0212,D0059,ID,22.24,5,0,0,8,0,-1.3551862997993696,0,3,0,5,0,1,20.0,Low,high velocity
+T000645,C0116,B0193,D0034,HK,178.76,11,0,0,3,0,-0.30278968590831923,0,12,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000655,C0083,B0028,D0141,CN,181.85,20,0,1,3,0,0.0,0,6,1,6,0,0,20.0,Low,"cross-border, shared device"
+T000662,C0111,B0077,D0056,GB,101.84,16,0,0,4,0,-0.6745,0,7,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000670,C0020,B0201,D0013,SG,36.98,19,0,0,1,0,-0.9258704273706643,0,9,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000674,C0015,B0244,D0141,HK,28.57,15,0,1,2,0,-0.6526800316122233,0,6,1,6,0,0,20.0,Low,"cross-border, shared device"
+T000677,C0088,B0061,D0020,ID,142.75,5,0,0,1,0,-0.9924084715092877,0,7,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000685,C0026,B0160,D0061,DE,73.6,2,0,0,1,0,-0.30403865011475073,1,8,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T000690,C0118,B0117,D0084,CN,61.35,8,0,0,2,0,-0.7892607508709898,0,9,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000694,C0142,B0184,D0044,MY,155.45,4,0,0,1,0,0.0,1,10,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000713,C0110,B0001,D0011,ID,33.88,13,0,0,2,0,-0.8859434325913077,0,11,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000715,C0139,B0086,D0066,ID,100.18,1,0,0,2,0,-0.2848551954608837,1,5,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000724,C0018,B0113,D0110,CN,117.58,5,0,1,4,0,-0.16493775360685287,0,6,1,3,0,0,20.0,Low,"cross-border, shared device"
+T000728,C0014,B0033,D0163,MY,150.64,17,0,1,3,0,0.0,0,4,1,6,0,0,20.0,Low,"cross-border, shared device"
+T000733,C0139,B0217,D0137,GB,30.51,3,0,0,2,0,-0.7367705197865075,1,9,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000766,C0118,B0193,D0072,SG,51.31,7,0,0,3,0,-0.8596884977380272,0,4,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000767,C0092,B0097,D0135,ID,43.52,1,0,0,1,0,-0.8408360261018252,1,8,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T000770,C0057,B0040,D0109,TH,70.74,11,0,0,4,0,-0.6745,0,5,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000776,C0143,B0013,D0100,CN,128.76,3,0,1,2,0,-0.5923416991457028,1,3,0,7,0,0,20.0,Low,"cross-border, odd-hour activity"
+T000792,C0069,B0114,D0122,NL,134.19,2,0,0,1,0,-0.2791977360608706,1,8,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000796,C0045,B0001,D0032,MY,196.78,20,0,0,3,0,-0.3241367296858257,0,6,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000803,C0078,B0103,D0138,HK,94.99,8,0,0,3,0,-0.4443801148105626,0,8,1,10,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000808,C0017,B0040,D0146,ID,30.34,7,0,0,3,0,-0.8975183316515304,0,7,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000810,C0150,B0164,D0003,SG,26.89,6,0,1,5,0,-1.16254799008323,0,9,1,3,0,0,20.0,Low,"cross-border, shared device"
+T000814,C0043,B0239,D0173,US,28.03,1,0,0,2,0,-0.865881886179662,1,8,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000816,C0126,B0083,D0048,HK,71.74,8,0,0,1,0,-1.1285436054124838,0,5,1,10,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000819,C0100,B0187,D0177,DE,78.9,4,0,0,1,0,-0.3633060273972602,1,7,1,6,0,0,20.0,Low,"odd-hour activity, shared device"
+T000820,C0150,B0120,D0078,MY,124.22,4,0,0,4,0,0.0,1,10,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000823,C0021,B0171,D0139,ID,90.31,13,0,0,4,0,-0.007265530470709792,0,7,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000824,C0098,B0156,D0139,MY,121.65,4,0,0,2,0,-0.3257656582547888,1,7,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000825,C0094,B0019,D0109,CN,41.6,2,0,0,2,0,-0.33779046474358965,1,5,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T000827,C0103,B0160,D0104,CN,24.86,0,0,0,2,0,-1.4614726440931156,1,9,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T000844,C0006,B0195,D0093,NL,59.95,20,0,0,3,0,-0.637023246674728,0,4,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000849,C0123,B0195,D0026,CN,23.28,16,0,0,2,0,-0.6745,0,4,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000853,C0145,B0094,D0028,DE,44.01,18,0,0,4,0,-0.5567475617685307,0,6,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000858,C0009,B0192,D0035,CN,92.12,2,0,0,3,0,-0.3402351205616033,1,10,1,7,0,0,20.0,Low,"odd-hour activity, shared device"
+T000862,C0140,B0146,D0086,SG,33.88,3,0,0,2,0,-0.9737769339813689,1,9,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T000868,C0126,B0235,D0124,ID,107.87,10,0,1,3,0,-0.703058053251855,0,5,1,3,0,0,20.0,Low,"cross-border, shared device"
+T000873,C0018,B0105,D0117,SG,10.75,2,0,0,1,0,-0.9771202941839493,1,6,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000874,C0019,B0089,D0073,HK,64.6,9,0,0,2,0,-0.7709540653813917,0,9,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000877,C0081,B0121,D0013,HK,222.16,22,0,1,2,0,-0.25146214772517944,0,9,1,4,0,0,20.0,Low,"cross-border, shared device"
+T000880,C0095,B0033,D0131,SG,87.63,20,0,1,2,0,-0.8390630939226518,0,7,1,6,0,0,20.0,Low,"cross-border, shared device"
+T000882,C0128,B0024,D0136,DE,468.13,6,0,1,3,0,0.0,0,6,1,7,0,0,20.0,Low,"cross-border, shared device"
+T000892,C0107,B0085,D0084,SG,106.8,15,0,1,4,0,-0.6745,0,9,1,7,0,0,20.0,Low,"cross-border, shared device"
+T000896,C0092,B0202,D0143,ID,187.78,2,0,0,3,0,-0.16174630980214255,1,11,1,7,0,0,20.0,Low,"odd-hour activity, shared device"
+T000898,C0009,B0223,D0163,ID,56.4,3,0,0,2,0,-0.830481127276427,1,4,1,7,0,0,20.0,Low,"odd-hour activity, shared device"
+T000901,C0001,B0237,D0114,GB,68.39,18,0,1,1,0,-1.4346374107142856,0,5,1,5,0,0,20.0,Low,"cross-border, shared device"
+T000906,C0107,B0072,D0046,HK,107.91,1,0,0,4,0,-0.5847284172661872,1,4,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T000912,C0028,B0175,D0001,ID,161.74,23,0,0,5,0,0.0,1,14,1,6,0,0,20.0,Low,"odd-hour activity, shared device"
+T000917,C0082,B0249,D0114,HK,65.96,6,0,1,2,0,-0.9183917735376915,0,5,1,5,0,0,20.0,Low,"cross-border, shared device"
+T000922,C0086,B0247,D0001,US,162.64,17,0,0,1,0,-0.6745,0,14,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000937,C0024,B0142,D0094,ID,260.57,4,0,0,2,0,-0.05491780821917813,1,8,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000941,C0104,B0182,D0097,ID,44.17,21,0,0,4,0,-1.9119545624999996,0,9,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000942,C0061,B0227,D0055,DE,41.32,18,0,1,6,0,-0.6745,0,5,1,7,0,0,20.0,Low,"cross-border, shared device"
+T000944,C0072,B0159,D0111,US,48.27,23,0,0,4,0,-0.862281853685752,1,10,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000948,C0021,B0243,D0023,ID,91.04,8,0,1,2,0,0.0,0,9,1,6,0,0,20.0,Low,"cross-border, shared device"
+T000956,C0092,B0127,D0001,US,114.19,2,0,0,3,0,-0.508163973898175,1,14,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000960,C0062,B0087,D0095,HK,14.3,4,0,0,3,0,-0.7366746329099975,1,7,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000961,C0024,B0210,D0177,CN,51.61,1,0,0,2,0,-0.5987863013698629,1,7,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T000964,C0033,B0237,D0147,SG,37.78,19,0,1,2,0,-0.6745,0,5,1,5,0,0,20.0,Low,"cross-border, shared device"
+T000966,C0089,B0240,D0135,MY,78.53,5,0,1,2,0,-0.3809646327014216,0,8,1,5,0,0,20.0,Low,"cross-border, shared device"
+T000967,C0091,B0082,D0112,HK,204.6,6,0,1,1,0,-0.055376946634521376,0,5,1,1,0,0,20.0,Low,"cross-border, shared device"
+T000970,C0006,B0254,D0022,TH,32.38,21,0,1,4,0,-0.711976753325272,0,8,1,5,0,0,20.0,Low,"cross-border, shared device"
+T000971,C0045,B0006,D0177,ID,117.79,10,0,1,3,0,-0.6924272975495107,0,7,1,4,0,0,20.0,Low,"cross-border, shared device"
+T000974,C0072,B0199,D0091,ID,30.12,4,0,0,7,0,-0.9476586233349605,1,9,1,2,0,0,20.0,Low,"odd-hour activity, shared device"
+T000975,C0023,B0061,D0121,US,52.05,20,0,0,2,0,-0.6744999999999999,0,6,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000976,C0034,B0198,D0091,SG,52.43,8,0,1,2,0,-0.6745,0,9,1,5,0,0,20.0,Low,"cross-border, shared device"
+T000981,C0089,B0182,D0149,ID,39.63,8,0,0,2,0,-1.0027193720379144,0,8,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000982,C0106,B0063,D0141,ID,15.85,3,0,0,1,0,-0.810907715754987,1,6,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000983,C0083,B0158,D0173,CN,116.27,10,0,1,2,0,-0.610625483158476,0,8,1,3,0,0,20.0,Low,"cross-border, shared device"
+T000985,C0089,B0165,D0143,ID,77.38,4,0,0,3,0,-0.39934555687203793,1,11,1,6,0,0,20.0,Low,"odd-hour activity, shared device"
+T000989,C0037,B0120,D0052,MY,108.19,23,0,0,3,0,-0.33404199554746006,1,7,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T000995,C0080,B0171,D0061,DE,35.81,17,0,0,6,0,-0.7429670345915048,0,8,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T001003,C0084,B0011,D0029,ID,182.85,3,0,0,5,0,-0.15361790254942423,1,7,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T001009,C0111,B0061,D0119,ID,109.47,15,0,0,3,0,-0.613537728026534,0,5,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T001016,C0126,B0102,D0074,CN,140.41,16,0,1,2,0,-0.31985019642077694,0,6,1,6,0,0,20.0,Low,"cross-border, shared device"
+T001020,C0018,B0050,D0051,MY,138.91,3,0,0,2,0,-0.002774938007213559,1,8,1,5,0,0,20.0,Low,"odd-hour activity, shared device"
+T001028,C0043,B0242,D0159,ID,549.78,18,0,1,2,0,0.0,0,5,1,5,0,0,20.0,Low,"cross-border, shared device"
+T001037,C0136,B0065,D0053,CN,52.73,13,0,1,2,0,-0.7243288047042351,0,4,1,4,0,0,20.0,Low,"cross-border, shared device"
+T001042,C0129,B0172,D0002,SG,76.07,2,0,0,1,0,-0.31453468042419047,1,12,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T001051,C0077,B0132,D0085,SG,37.8,19,0,1,1,0,-0.7341805887372014,0,7,1,5,0,0,20.0,Low,"cross-border, shared device"
+T001054,C0144,B0130,D0063,SG,48.23,13,0,1,2,0,-0.9345641822760903,0,5,1,1,0,0,20.0,Low,"cross-border, shared device"
+T001057,C0068,B0207,D0135,CN,59.86,15,0,1,6,0,-0.6736807692307692,0,8,1,6,0,0,20.0,Low,"cross-border, shared device"
+T001059,C0064,B0001,D0151,US,52.77,9,0,0,2,0,-1.2718043295855008,0,6,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T001073,C0114,B0077,D0132,ID,109.12,16,0,0,1,0,-0.7858791131621187,0,6,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T001083,C0144,B0084,D0143,CN,132.55,1,0,0,4,0,-0.486950141665355,1,11,1,7,0,0,20.0,Low,"odd-hour activity, shared device"
+T001086,C0126,B0216,D0005,ID,107.66,9,0,1,6,0,-0.7055311217808818,0,6,1,2,0,0,20.0,Low,"cross-border, shared device"
+T001091,C0076,B0103,D0020,ID,31.74,22,0,0,4,0,-0.8860731030381125,0,7,1,10,1,0,20.0,Low,"shared device, beneficiary concentration"
+T001092,C0068,B0084,D0114,TH,61.11,0,0,0,3,0,-0.6395461538461539,1,5,1,7,0,0,20.0,Low,"odd-hour activity, shared device"
+T001093,C0127,B0061,D0067,CN,56.56,18,0,0,5,0,-0.4339434626753035,0,11,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T001098,C0114,B0128,D0086,ID,43.63,1,0,0,5,0,-1.6721753611556982,1,9,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T001106,C0028,B0025,D0159,CN,74.2,23,0,0,2,0,-0.506352199639825,1,5,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T001110,C0007,B0139,D0001,CN,143.83,14,0,0,4,0,-0.15075732995580454,0,14,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T001112,C0035,B0018,D0104,ID,56.68,23,0,0,2,0,-0.6769238177375305,1,9,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T001114,C0044,B0014,D0026,GB,125.8,20,0,1,3,0,-0.10494628143392194,0,4,1,6,0,0,20.0,Low,"cross-border, shared device"
+T001115,C0030,B0059,D0048,HK,84.25,3,0,0,1,0,-0.62462465649407,1,5,1,1,0,0,20.0,Low,"odd-hour activity, shared device"
+T001119,C0109,B0221,D0122,ID,134.4,8,0,1,2,0,-0.04592593883621501,0,8,1,6,0,0,20.0,Low,"cross-border, shared device"
+T001121,C0003,B0026,D0148,TH,86.35,3,0,0,4,0,-0.3163534798534799,1,6,1,4,0,0,20.0,Low,"odd-hour activity, shared device"
+T001134,C0115,B0214,D0178,NL,65.1,4,0,0,1,0,-0.370310481563241,1,8,1,6,0,0,20.0,Low,"odd-hour activity, shared device"
+T001137,C0109,B0118,D0006,SG,16.2,10,0,0,2,0,-0.7870107129577989,0,4,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T001150,C0128,B0131,D0115,NL,160.43,11,0,1,2,0,-0.610386594906182,0,7,1,4,0,0,20.0,Low,"cross-border, shared device"
+T001153,C0065,B0186,D0169,ID,145.51,23,0,0,2,0,-0.2831665663375873,1,5,1,6,0,0,20.0,Low,"odd-hour activity, shared device"
+T001155,C0046,B0081,D0075,HK,26.68,1,0,0,2,0,-0.8781604447655748,1,8,1,3,0,0,20.0,Low,"odd-hour activity, shared device"
+T001167,C0004,B0088,D0076,SG,119.14,20,0,1,4,0,-0.3413324999999999,0,8,1,6,0,0,20.0,Low,"cross-border, shared device"
+T001177,C0048,B0222,D0116,CN,152.91,17,0,0,4,0,-0.2784456547571893,0,4,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T001182,C0140,B0117,D0137,ID,66.11,13,0,0,2,0,-0.09329353989469436,0,9,1,9,1,0,20.0,Low,"shared device, beneficiary concentration"
+T001183,C0104,B0238,D0037,ID,80.74,8,0,1,4,0,-1.60362375,0,9,1,7,0,0,20.0,Low,"cross-border, shared device"
+T001186,C0047,B0227,D0039,ID,73.23,6,0,1,3,0,-0.338858040745557,0,12,1,7,0,0,20.0,Low,"cross-border, shared device"
+T001187,C0022,B0247,D0081,ID,71.27,11,0,0,4,0,-0.3913851948051949,0,10,1,8,1,0,20.0,Low,"shared device, beneficiary concentration"
+T000082,C0066,B0192,D0003,CN,398.32,18,0,0,3,0,3.121413262195122,0,9,1,7,0,0,19.8,Low,"unusual amount, shared device"
+T001029,C0085,B0076,D0140,DE,566.94,8,0,0,3,0,3.1477740241136454,0,8,1,5,0,0,19.8,Low,"unusual amount, shared device"
+T000286,C0141,B0224,D0087,ID,1385.88,2,0,0,2,0,3.056385402513586,1,3,0,5,0,0,19.6,Low,"unusual amount, odd-hour activity"
+T000160,C0118,B0095,D0106,CN,378.94,22,1,0,4,0,1.4385428474858302,0,2,0,3,0,0,19.5,Low,new beneficiary
+T000164,C0061,B0053,D0074,ID,560.3,12,0,0,2,0,2.8814936001625355,0,6,1,5,0,0,19.0,Low,shared device
+T000496,C0062,B0177,D0097,ID,969.85,12,0,0,2,0,2.814489173255462,0,9,1,6,0,0,18.8,Low,shared device
+T000842,C0099,B0232,D0038,US,441.63,11,0,0,6,0,2.674666532582462,0,8,1,4,0,0,18.4,Low,shared device
+T000714,C0115,B0202,D0167,ID,615.91,18,0,0,3,0,2.6672281089036054,0,12,1,7,0,0,18.3,Low,shared device
+T000296,C0079,B0112,D0067,SG,274.67,17,0,0,1,0,2.592877949504484,0,11,1,2,0,0,18.1,Low,shared device
+T000709,C0072,B0010,D0162,HK,784.29,17,0,0,2,0,2.599922553874049,0,5,1,4,0,0,18.1,Low,shared device
+T000845,C0001,B0072,D0131,SG,235.07,13,0,0,4,0,2.5805647321428573,0,7,1,4,0,0,18.1,Low,shared device
+T000205,C0069,B0046,D0136,ID,430.82,15,0,0,5,0,2.2164606773107143,0,6,1,6,0,0,16.9,Low,shared device
+T000553,C0125,B0163,D0168,ID,437.63,11,0,0,2,0,2.1515313183423985,0,11,1,3,0,0,16.7,Low,shared device
+T000786,C0089,B0206,D0170,HK,233.99,22,0,0,1,0,2.103816646919431,0,8,1,5,0,0,16.6,Low,shared device
+T000316,C0099,B0241,D0083,MY,355.08,7,0,0,2,0,2.0037324445466043,0,5,1,1,0,0,16.3,Low,shared device
+T000911,C0116,B0073,D0002,TH,944.32,18,0,0,1,0,2.004288412563667,0,12,1,7,0,0,16.3,Low,shared device
+T001158,C0128,B0057,D0062,ID,1445.97,14,0,0,3,0,1.9397478971825188,0,7,1,4,0,0,16.1,Low,shared device
+T000471,C0111,B0198,D0051,CN,424.9,15,0,0,2,0,1.9066889362710258,0,8,1,5,0,0,16.0,Low,shared device
+T000391,C0113,B0191,D0168,ID,323.38,8,0,0,3,0,1.8830773292177725,0,11,1,7,0,0,15.9,Low,shared device
+T000462,C0022,B0159,D0167,TH,266.08,19,0,0,4,0,1.8839281385281383,0,12,1,3,0,0,15.9,Low,shared device
+T000615,C0103,B0229,D0088,HK,423.67,0,0,0,2,0,1.8871809722395114,1,3,0,4,0,0,15.9,Low,odd-hour activity
+T000673,C0096,B0157,D0044,GB,332.32,13,0,0,3,0,1.8899876038507184,0,10,1,4,0,0,15.9,Low,shared device
+T000851,C0148,B0045,D0061,TH,573.46,15,0,0,5,0,1.9010277715815298,0,8,1,4,0,0,15.9,Low,shared device
+T001014,C0048,B0030,D0017,ID,548.9,17,0,0,1,0,1.8374955240434128,0,6,1,6,0,0,15.7,Low,shared device
+T000929,C0063,B0017,D0071,SG,303.12,19,0,0,2,0,1.804622516556291,0,8,1,4,0,0,15.6,Low,shared device
+T000019,C0126,B0210,D0052,HK,315.72,11,0,0,2,0,1.7446909646442608,0,7,1,3,0,0,15.5,Low,shared device
+T000716,C0120,B0135,D0090,DE,582.54,12,0,0,3,0,1.7516303013698629,0,4,1,4,0,0,15.5,Low,shared device
+T000304,C0135,B0084,D0150,MY,444.67,12,0,0,2,0,1.6994515277591375,0,8,1,7,0,0,15.3,Low,shared device
+T000305,C0082,B0155,D0013,CN,311.46,18,0,0,2,0,1.6713759774788866,0,9,1,3,0,0,15.2,Low,shared device
+T001125,C0127,B0194,D0053,ID,302.92,19,0,0,1,0,1.6561115024212316,0,4,1,5,0,0,15.2,Low,shared device
+T000005,C0065,B0169,D0069,GB,615.0,16,0,0,6,0,1.6231120575487599,0,6,1,6,0,0,15.1,Low,shared device
+T001038,C0003,B0071,D0118,ID,31.07,14,1,0,2,0,-0.7010860805860807,0,3,0,2,0,0,15.0,Low,new beneficiary
+T000916,C0069,B0053,D0152,ID,352.96,6,0,0,3,0,1.5613955656729448,0,5,1,5,0,0,14.9,Low,shared device
+T000351,C0080,B0073,D0044,CN,547.04,18,0,0,2,0,1.522560609047009,0,10,1,7,0,0,14.8,Low,shared device
+T000449,C0079,B0253,D0051,SG,205.38,21,0,0,4,0,1.4900911396885324,0,8,1,5,0,0,14.7,Low,shared device
+T001080,C0126,B0175,D0140,ID,294.99,5,0,0,2,0,1.500563771278918,0,8,1,6,0,0,14.7,Low,shared device
+T000965,C0143,B0248,D0029,ID,889.71,11,0,0,3,0,1.4282904610054723,0,7,1,4,0,0,14.5,Low,shared device
+T000684,C0144,B0220,D0044,SG,488.62,7,0,0,2,0,1.403253030064537,0,10,1,6,0,0,14.4,Low,shared device
+T000699,C0008,B0194,D0033,DE,488.14,20,0,0,1,0,1.4161017782512495,0,5,1,5,0,0,14.4,Low,shared device
+T001041,C0106,B0058,D0170,US,813.05,22,0,0,3,0,1.419057033550367,0,8,1,4,0,0,14.4,Low,shared device
+T000049,C0102,B0085,D0140,SG,695.92,10,0,0,1,0,1.3752958104300428,0,8,1,7,0,0,14.3,Low,shared device
+T001141,C0133,B0110,D0132,TH,611.5,13,0,0,3,0,1.3365966849071012,0,6,1,3,0,0,14.2,Low,shared device
+T000158,C0084,B0035,D0156,ID,511.92,8,0,0,3,0,1.323834770019304,0,9,1,6,0,0,14.1,Low,shared device
+T000463,C0113,B0048,D0150,HK,270.72,17,0,0,5,0,1.30604589391601,0,8,1,6,0,0,14.1,Low,shared device
+T000361,C0127,B0076,D0024,HK,258.26,18,0,0,2,0,1.2772275328595684,0,8,1,5,0,0,14.0,Low,shared device
+T000338,C0048,B0029,D0034,US,437.66,18,0,0,4,0,1.2430934009348016,0,12,1,7,0,0,13.9,Low,shared device
+T000438,C0140,B0162,D0161,SG,114.99,11,0,0,2,0,1.2420470838396107,0,5,1,6,0,0,13.9,Low,shared device
+T000182,C0023,B0074,D0001,SG,197.81,9,0,0,3,0,1.1704074873334582,0,14,1,5,0,0,13.7,Low,shared device
+T000269,C0092,B0202,D0001,ID,475.09,21,0,0,2,0,1.1907371671842832,0,14,1,7,0,0,13.7,Low,shared device
+T000532,C0025,B0235,D0121,SG,242.61,6,0,0,3,0,1.1850280077262694,0,6,1,3,0,0,13.7,Low,shared device
+T000089,C0116,B0027,D0002,DE,665.96,16,0,0,3,0,1.1654276315789476,0,12,1,5,0,0,13.6,Low,shared device
+T000420,C0076,B0257,D0127,SG,338.89,7,0,0,1,0,1.1674797046141647,0,9,1,5,0,0,13.6,Low,shared device
+T000936,C0142,B0178,D0041,HK,203.37,9,0,0,3,0,1.160159368269922,0,10,1,3,0,0,13.6,Low,shared device
+T000102,C0030,B0104,D0018,ID,442.12,16,0,0,1,0,1.12098797729245,0,9,1,6,0,0,13.5,Low,shared device
+T000174,C0109,B0109,D0071,SG,316.83,14,0,0,1,0,1.0978650539133663,0,8,1,3,0,0,13.4,Low,shared device
+T000308,C0084,B0125,D0055,TH,451.99,5,0,0,4,0,1.0547621147573722,0,5,1,5,0,0,13.3,Low,shared device
+T001103,C0138,B0148,D0056,ID,174.45,13,0,0,3,0,1.0229180312954875,0,7,1,5,0,0,13.2,Low,shared device
+T000430,C0108,B0033,D0001,CN,184.11,21,0,0,7,0,0.9840093472109944,0,14,1,6,0,0,13.1,Low,shared device
+T000150,C0009,B0155,D0023,MY,186.69,8,0,0,2,0,0.9577090243158002,0,9,1,3,0,0,13.0,Low,shared device
+T000231,C0070,B0122,D0168,ID,291.96,12,0,0,2,0,0.9696709220541477,0,11,1,7,0,0,13.0,Low,shared device
+T000310,C0017,B0177,D0157,ID,192.39,11,0,0,3,0,0.9407380591994617,0,4,1,6,0,0,12.9,Low,shared device
+T000515,C0144,B0167,D0073,SG,394.88,7,0,0,3,0,0.9056327719187787,0,9,1,1,0,0,12.8,Low,shared device
+T000609,C0146,B0024,D0113,SG,211.03,20,0,0,1,0,0.8944415620641563,0,10,1,7,0,0,12.8,Low,shared device
+T001078,C0025,B0014,D0096,SG,213.07,13,0,0,3,0,0.9101283112582781,0,7,1,6,0,0,12.8,Low,shared device
+T000723,C0127,B0214,D0085,SG,210.17,20,0,0,4,0,0.8692443242563359,0,7,1,6,0,0,12.7,Low,shared device
+T001004,C0133,B0088,D0177,CN,492.62,7,0,0,2,0,0.8263869623313821,0,7,1,6,0,0,12.6,Low,shared device
+T000275,C0063,B0254,D0167,SG,204.48,9,0,0,2,0,0.8032275737507523,0,12,1,5,0,0,12.5,Low,shared device
+T000495,C0044,B0042,D0047,SG,250.91,8,0,0,3,0,0.7980681112894596,0,6,1,3,0,0,12.5,Low,shared device
+T000866,C0105,B0132,D0115,US,343.5,21,0,0,2,0,0.7760046497420582,0,7,1,5,0,0,12.4,Low,shared device
+T000934,C0098,B0104,D0152,SG,225.29,16,0,0,3,0,0.7369461082395864,0,5,1,6,0,0,12.3,Low,shared device
+T000020,C0068,B0114,D0075,CN,110.55,12,0,0,2,0,0.7105461538461536,0,8,1,5,0,0,12.2,Low,shared device
+T000170,C0004,B0165,D0166,HK,324.14,19,0,0,2,0,0.6983103571428572,0,5,1,6,0,0,12.2,Low,shared device
+T000450,C0043,B0217,D0065,SG,971.05,15,0,0,2,0,0.6991280540314446,0,9,1,3,0,0,12.2,Low,shared device
+T000567,C0035,B0131,D0044,ID,268.99,20,0,0,5,0,0.6953448325427628,0,10,1,4,0,0,12.2,Low,shared device
+T000927,C0082,B0080,D0029,US,220.26,10,0,0,4,0,0.7093115420706915,0,7,1,6,0,0,12.2,Low,shared device
+T000129,C0087,B0175,D0016,ID,181.13,18,0,0,2,0,0.6745,0,7,1,6,0,0,12.1,Low,shared device
+T000200,C0145,B0078,D0070,HK,156.31,20,0,0,3,0,0.6745,0,6,1,4,0,0,12.1,Low,shared device
+T000220,C0136,B0124,D0170,SG,225.54,12,0,0,2,0,0.6764685153294148,0,8,1,5,0,0,12.1,Low,shared device
+T000247,C0114,B0243,D0102,HK,217.03,16,0,0,4,0,0.6745,0,11,1,6,0,0,12.1,Low,shared device
+T000363,C0034,B0065,D0066,SG,275.99,11,0,0,3,0,0.6745,0,5,1,4,0,0,12.1,Low,shared device
+T000392,C0027,B0090,D0028,CN,368.74,14,0,0,3,0,0.6745,0,6,1,6,0,0,12.1,Low,shared device
+T000622,C0072,B0199,D0002,ID,374.97,8,0,0,1,0,0.6745,0,12,1,2,0,0,12.1,Low,shared device
+T000686,C0121,B0047,D0065,SG,210.23,21,0,0,6,0,0.6745,0,9,1,5,0,0,12.1,Low,shared device
+T000790,C0002,B0240,D0150,SG,378.08,21,0,0,5,0,0.6745,0,8,1,5,0,0,12.1,Low,shared device
+T000918,C0118,B0141,D0072,TH,268.03,10,0,0,4,0,0.6605407155114137,0,4,1,3,0,0,12.1,Low,shared device
+T000949,C0143,B0220,D0022,HK,605.84,21,0,0,3,0,0.6745,0,8,1,6,0,0,12.1,Low,shared device
+T001079,C0063,B0096,D0074,HK,191.8,17,0,0,5,0,0.6745,0,6,1,3,0,0,12.1,Low,shared device
+T000206,C0040,B0041,D0136,NL,254.03,22,0,0,1,0,0.630118363989831,0,6,1,4,0,0,12.0,Low,shared device
+T001157,C0019,B0107,D0127,ID,315.65,17,0,0,3,0,0.6484359178541491,0,9,1,6,0,0,12.0,Low,shared device
+T001132,C0101,B0223,D0013,ID,177.94,7,0,0,2,0,0.6180979784056968,0,9,1,7,0,0,11.9,Low,shared device
+T000241,C0022,B0202,D0043,SG,154.36,10,0,0,1,0,0.5790772294372296,0,7,1,7,0,0,11.8,Low,shared device
+T000938,C0023,B0007,D0010,HK,151.04,11,0,0,1,0,0.5784321636329516,0,7,1,6,0,0,11.8,Low,shared device
+T001075,C0071,B0047,D0054,ID,237.39,12,0,0,3,0,0.5646144539337474,0,7,1,5,0,0,11.8,Low,shared device
+T000233,C0003,B0045,D0164,SG,208.6,8,0,0,5,0,0.5344706959706959,0,7,1,4,0,0,11.7,Low,shared device
+T000802,C0046,B0017,D0164,CN,159.33,6,0,0,1,0,0.5584552424534365,0,7,1,4,0,0,11.7,Low,shared device
+T000156,C0100,B0129,D0019,TH,173.14,13,0,0,4,0,0.5074457534246575,0,9,1,5,0,0,11.6,Low,shared device
+T000262,C0026,B0081,D0139,ID,132.18,17,0,0,1,0,0.5203346025453788,0,7,1,3,0,0,11.6,Low,shared device
+T000582,C0126,B0088,D0011,ID,212.04,5,0,0,3,0,0.5237017023134003,0,11,1,6,0,0,11.6,Low,shared device
+T000652,C0098,B0066,D0032,GB,202.15,6,0,0,2,0,0.49967140468227417,0,6,1,7,0,0,11.6,Low,shared device
+T000739,C0111,B0249,D0084,ID,251.31,21,0,0,3,0,0.5197373252783702,0,9,1,5,0,0,11.6,Low,shared device
+T000191,C0103,B0080,D0013,ID,256.24,19,0,0,2,0,0.4813358956803185,0,9,1,6,0,0,11.5,Low,shared device
+T000116,C0086,B0078,D0147,ID,361.04,21,0,0,4,0,0.46285169131395537,0,5,1,4,0,0,11.4,Low,shared device
+T000121,C0066,B0030,D0080,HK,137.58,21,0,0,4,0,0.4404814024390246,0,4,1,6,0,0,11.4,Low,shared device
+T000359,C0014,B0258,D0065,SG,195.85,8,0,0,1,0,0.4349471544715447,0,9,1,3,0,0,11.4,Low,shared device
+T000505,C0042,B0239,D0117,SG,164.05,21,0,0,2,0,0.4495592451027232,0,6,1,3,0,0,11.4,Low,shared device
+T000364,C0135,B0238,D0007,SG,230.95,8,0,0,3,0,0.40965472196125796,0,6,1,7,0,0,11.3,Low,shared device
+T000968,C0048,B0219,D0052,GB,282.12,14,0,0,3,0,0.4119777390477699,0,7,1,2,0,0,11.3,Low,shared device
+T001117,C0150,B0023,D0031,ID,157.75,17,0,0,3,0,0.40049557287055076,0,9,1,3,0,0,11.3,Low,shared device
+T000167,C0049,B0079,D0144,GB,268.09,5,0,0,3,0,0.38841484651711916,0,10,1,7,0,0,11.2,Low,shared device
+T000867,C0123,B0188,D0133,NL,141.19,9,0,0,1,0,0.3987833333333334,0,4,1,3,0,0,11.2,Low,shared device
+T000093,C0127,B0115,D0167,CN,150.39,21,0,0,3,0,0.3620861581032638,0,12,1,4,0,0,11.1,Low,shared device
+T000382,C0141,B0057,D0168,TH,440.3,12,0,0,2,0,0.3483618376358695,0,11,1,4,0,0,11.1,Low,shared device
+T000519,C0072,B0107,D0153,HK,300.12,18,0,0,2,0,0.32240902433921464,0,6,1,6,0,0,11.0,Low,shared device
+T000986,C0098,B0075,D0045,GB,185.19,13,0,0,1,0,0.3257656582547886,0,7,1,6,0,0,11.0,Low,shared device
+T000009,C0031,B0074,D0084,SG,525.93,9,0,0,4,0,0.3013232642487045,0,9,1,5,0,0,10.9,Low,shared device
+T000393,C0056,B0100,D0130,GB,197.14,6,0,0,4,0,0.29551914406355134,0,5,1,4,0,0,10.9,Low,shared device
+T001002,C0111,B0002,D0165,HK,220.63,9,0,0,1,0,0.2746098673300167,0,6,1,5,0,0,10.9,Low,shared device
+T001194,C0106,B0058,D0102,CN,407.51,9,0,0,2,0,0.2846617695848712,0,11,1,4,0,0,10.9,Low,shared device
+T000634,C0057,B0019,D0020,SG,304.1,6,0,0,3,0,0.25019345552814004,0,7,1,4,0,0,10.8,Low,shared device
+T000795,C0065,B0196,D0133,SG,279.33,6,0,0,3,0,0.26018516734890434,0,4,1,2,0,0,10.8,Low,shared device
+T000846,C0001,B0257,D0145,NL,138.22,19,0,0,2,0,0.24751741071428585,0,5,1,5,0,0,10.8,Low,shared device
+T001040,C0125,B0230,D0149,ID,187.65,20,0,0,3,0,0.26052576683676326,0,8,1,6,0,0,10.8,Low,shared device
+T000272,C0004,B0181,D0154,HK,227.91,17,0,0,7,0,0.21028678571428575,0,5,1,2,0,0,10.7,Low,shared device
+T000394,C0090,B0005,D0096,ID,266.47,9,0,0,1,0,0.2328006782502668,0,7,1,4,0,0,10.7,Low,shared device
+T000731,C0110,B0024,D0065,CN,203.31,9,0,0,2,0,0.21534340368121802,0,9,1,7,0,0,10.7,Low,shared device
+T000753,C0013,B0019,D0036,CN,193.98,17,0,0,4,0,0.22656095830070475,0,7,1,4,0,0,10.7,Low,shared device
+T000299,C0043,B0122,D0024,ID,671.74,17,0,0,4,0,0.20240144674359675,0,8,1,7,0,0,10.6,Low,shared device
+T000501,C0018,B0069,D0091,MY,165.2,10,0,0,2,0,0.197096624211001,0,9,1,6,0,0,10.6,Low,shared device
+T001101,C0072,B0070,D0011,SG,269.06,18,0,0,2,0,0.17630420531417804,0,11,1,4,0,0,10.6,Low,shared device
+T000097,C0036,B0069,D0144,CN,194.99,22,0,0,4,0,0.1530780141843974,0,10,1,6,0,0,10.5,Low,shared device
+T000106,C0119,B0174,D0021,HK,64.4,8,0,0,2,0,0.12645793793280327,0,6,1,3,0,0,10.4,Low,shared device
+T000228,C0087,B0234,D0001,SG,140.95,13,0,0,2,0,0.11524680148576145,0,14,1,4,0,0,10.4,Low,shared device
+T000230,C0027,B0204,D0007,CN,258.47,5,0,0,1,0,0.12925320724287082,0,6,1,4,0,0,10.4,Low,shared device
+T000428,C0121,B0152,D0169,ID,140.34,21,0,0,1,0,0.12035864582108857,0,5,1,5,0,0,10.4,Low,shared device
+T000594,C0147,B0073,D0154,ID,218.05,13,0,0,5,0,0.14133840909090908,0,5,1,7,0,0,10.4,Low,shared device
+T001013,C0037,B0157,D0040,GB,141.09,9,0,0,3,0,0.11507862780813612,0,5,1,4,0,0,10.4,Low,shared device
+T000605,C0124,B0034,D0127,US,106.17,15,0,0,3,0,0.08688614163614171,0,9,1,4,0,0,10.3,Low,shared device
+T000765,C0055,B0212,D0023,CN,125.76,10,0,0,5,0,0.08883134090456263,0,9,1,5,0,0,10.3,Low,shared device
+T000832,C0037,B0046,D0039,HK,139.07,6,0,0,4,0,0.08750344059906898,0,12,1,6,0,0,10.3,Low,shared device
+T001006,C0139,B0207,D0064,ID,158.87,21,0,0,1,0,0.09583822185892199,0,4,1,6,0,0,10.3,Low,shared device
+T001118,C0088,B0114,D0162,DE,361.19,17,0,0,2,0,0.09579847852579469,0,5,1,5,0,0,10.3,Low,shared device
+T001123,C0041,B0088,D0149,ID,216.1,10,0,0,2,0,0.11024703846665782,0,8,1,6,0,0,10.3,Low,shared device
+T000486,C0035,B0135,D0028,ID,170.14,6,0,0,1,0,0.05642647692971103,0,6,1,4,0,0,10.2,Low,shared device
+T000534,C0043,B0225,D0078,ID,579.67,8,0,0,2,0,0.049604618261447214,0,10,1,4,0,0,10.2,Low,shared device
+T001113,C0029,B0133,D0024,HK,127.83,22,0,0,3,0,0.06741150663432739,0,8,1,2,0,0,10.2,Low,shared device
+T000672,C0093,B0054,D0087,NL,159.2,3,0,0,2,0,0.022375821876868197,1,3,0,4,0,0,10.1,Low,odd-hour activity
+T000755,C0084,B0252,D0002,SG,227.58,22,0,0,2,0,0.047210061239432936,0,12,1,3,0,0,10.1,Low,shared device
+T000002,C0117,B0124,D0102,CN,69.74,6,0,0,2,0,-0.9255569237918215,0,11,1,5,0,0,10.0,Low,shared device
+T000011,C0079,B0162,D0095,ID,110.67,16,0,0,4,0,-0.0172683459178857,0,7,1,6,0,0,10.0,Low,shared device
+T000013,C0111,B0120,D0167,US,186.26,13,0,0,3,0,0.0,0,12,1,5,0,0,10.0,Low,shared device
+T000018,C0020,B0190,D0047,HK,46.08,20,0,0,4,0,-0.8532061678702499,0,6,1,4,0,0,10.0,Low,shared device
+T000021,C0076,B0169,D0047,MY,11.99,15,0,0,2,0,-1.0181182534569062,0,6,1,6,0,0,10.0,Low,shared device
+T000026,C0097,B0252,D0101,ID,178.46,19,0,0,2,0,-0.7060128289293723,0,8,1,3,0,0,10.0,Low,shared device
+T000032,C0035,B0191,D0094,TH,152.68,17,0,0,1,0,-0.05642647692971103,0,8,1,7,0,0,10.0,Low,shared device
+T000035,C0134,B0165,D0081,ID,75.07,10,0,0,2,0,-0.9935565019875071,0,10,1,6,0,0,10.0,Low,shared device
+T000041,C0025,B0132,D0065,ID,82.76,14,0,0,2,0,-0.3025385623620308,0,9,1,5,0,0,10.0,Low,shared device
+T000044,C0054,B0127,D0038,MY,67.74,8,0,0,1,0,-0.6745000000000001,0,8,1,3,0,0,10.0,Low,shared device
+T000045,C0011,B0227,D0108,ID,130.97,6,0,0,4,0,-0.6744999999999999,0,8,1,7,0,0,10.0,Low,shared device
+T000053,C0055,B0020,D0018,HK,94.91,16,0,0,1,0,-0.3257597130902571,0,9,1,3,0,0,10.0,Low,shared device
+T000060,C0103,B0208,D0011,ID,139.9,22,0,0,2,0,-0.4955261732851986,0,11,1,3,0,0,10.0,Low,shared device
+T000062,C0112,B0240,D0039,TH,91.34,6,0,0,2,0,-0.6232647235979119,0,12,1,5,0,0,10.0,Low,shared device
+T000063,C0055,B0116,D0085,TH,68.96,13,0,0,4,0,-0.6745,0,7,1,3,0,0,10.0,Low,shared device
+T000067,C0136,B0015,D0054,MY,106.26,10,0,0,4,0,-0.2904147919653814,0,7,1,4,0,0,10.0,Low,shared device
+T000071,C0120,B0096,D0160,SG,31.57,22,0,0,1,0,-0.9634693515981735,0,5,1,3,0,0,10.0,Low,shared device
+T000072,C0029,B0029,D0018,SG,113.82,16,0,0,2,0,-0.06741150663432725,0,9,1,7,0,0,10.0,Low,shared device
+T000073,C0070,B0242,D0075,TH,93.45,16,0,0,3,0,-0.3203858753251758,0,8,1,5,0,0,10.0,Low,shared device
+T000076,C0072,B0185,D0076,US,113.25,10,0,0,1,0,-0.5566189064788339,0,8,1,3,0,0,10.0,Low,shared device
+T000080,C0101,B0225,D0025,CN,97.4,19,0,0,1,0,-0.6298742246726394,0,5,1,4,0,0,10.0,Low,shared device
+T000083,C0025,B0102,D0033,SG,84.21,12,0,0,2,0,-0.2890448399558499,0,5,1,6,0,0,10.0,Low,shared device
+T000092,C0121,B0223,D0048,US,125.16,5,0,0,6,0,0.0,0,5,1,7,0,0,10.0,Low,shared device
+T000096,C0044,B0134,D0037,ID,64.01,9,0,0,4,0,-0.5509318887105404,0,9,1,7,0,0,10.0,Low,shared device
+T000098,C0103,B0176,D0160,ID,134.31,20,0,0,2,0,-0.5424632453628782,0,5,1,4,0,0,10.0,Low,shared device
+T000100,C0021,B0008,D0167,ID,43.4,6,0,0,5,0,-0.4741505090748118,0,12,1,5,0,0,10.0,Low,shared device
+T000113,C0084,B0202,D0173,MY,102.15,22,0,0,3,0,-0.5159433368834454,0,8,1,7,0,0,10.0,Low,shared device
+T000132,C0084,B0186,D0145,CN,111.04,19,0,0,4,0,-0.4760291719363642,0,5,1,6,0,0,10.0,Low,shared device
+T000133,C0014,B0111,D0166,US,149.03,9,0,0,6,0,-0.01548915989159877,0,5,1,5,0,0,10.0,Low,shared device
+T000134,C0084,B0210,D0031,DE,191.81,9,0,0,6,0,-0.11338945283898022,0,9,1,3,0,0,10.0,Low,shared device
+T000140,C0066,B0106,D0089,ID,30.84,12,0,0,1,0,-0.6570205792682926,0,7,1,5,0,0,10.0,Low,shared device
+T000143,C0042,B0031,D0001,SG,62.98,19,0,0,3,0,-0.8532924510272336,0,14,1,4,0,0,10.0,Low,shared device
+T000144,C0062,B0149,D0069,ID,147.09,11,0,0,5,0,-0.24317974324361546,0,6,1,4,0,0,10.0,Low,shared device
+T000146,C0129,B0259,D0072,MY,42.15,17,0,0,1,0,-0.9702824591573517,0,4,1,5,0,0,10.0,Low,shared device
+T000149,C0124,B0191,D0085,ID,48.97,7,0,0,4,0,-0.5860843799058085,0,7,1,7,0,0,10.0,Low,shared device
+T000155,C0066,B0057,D0003,MY,60.02,9,0,0,3,0,-0.35699146341463406,0,9,1,4,0,0,10.0,Low,shared device
+T000159,C0076,B0027,D0006,DE,76.32,18,0,0,4,0,-0.5880187837636913,0,4,1,5,0,0,10.0,Low,shared device
+T000175,C0105,B0230,D0139,ID,169.32,10,0,0,4,0,-0.02147301792017376,0,7,1,6,0,0,10.0,Low,shared device
+T000185,C0075,B0101,D0063,CN,127.33,21,0,0,6,0,-1.0713362942401115,0,5,1,2,0,0,10.0,Low,shared device
+T000186,C0067,B0061,D0100,MY,65.1,13,0,0,4,0,-0.6981577253238757,0,3,0,8,1,0,10.0,Low,beneficiary concentration
+T000188,C0058,B0085,D0058,GB,207.17,14,0,0,1,0,0.0,0,6,1,7,0,0,10.0,Low,shared device
+T000189,C0036,B0231,D0174,TH,178.67,16,0,0,3,0,0.0,0,9,1,3,0,0,10.0,Low,shared device
+T000195,C0144,B0056,D0055,HK,224.28,7,0,0,4,0,0.0,0,5,1,1,0,0,10.0,Low,shared device
+T000199,C0051,B0007,D0174,DE,75.97,9,0,0,5,0,-0.7410644067796611,0,9,1,6,0,0,10.0,Low,shared device
+T000212,C0108,B0146,D0167,SG,99.71,20,0,0,1,0,-0.16651207558609543,0,12,1,4,0,0,10.0,Low,shared device
+T000223,C0106,B0153,D0019,ID,68.27,21,0,0,3,0,-0.6642760647783355,0,9,1,7,0,0,10.0,Low,shared device
+T000234,C0114,B0146,D0101,SG,61.8,22,0,0,1,0,-1.426275180577849,0,8,1,4,0,0,10.0,Low,shared device
+T000242,C0088,B0133,D0089,US,322.73,19,0,0,3,0,-0.09579847852579498,0,7,1,2,0,0,10.0,Low,shared device
+T000243,C0015,B0243,D0037,CN,25.5,13,0,0,5,0,-0.6963199683877765,0,9,1,6,0,0,10.0,Low,shared device
+T000248,C0063,B0249,D0141,CN,55.31,15,0,0,4,0,-0.7111487808549065,0,6,1,5,0,0,10.0,Low,shared device
+T000249,C0119,B0192,D0168,ID,33.18,14,0,0,2,0,-0.9537108232880225,0,11,1,7,0,0,10.0,Low,shared device
+T000253,C0029,B0014,D0177,HK,37.79,5,0,0,2,0,-0.7990741546582966,0,7,1,6,0,0,10.0,Low,shared device
+T000255,C0100,B0149,D0153,SG,72.01,20,0,0,2,0,-0.4269677397260273,0,6,1,4,0,0,10.0,Low,shared device
+T000277,C0071,B0128,D0173,TH,85.77,18,0,0,1,0,-0.7587252199792961,0,8,1,4,0,0,10.0,Low,shared device
+T000291,C0122,B0072,D0131,SG,23.47,22,0,0,4,0,-0.8920606285426002,0,7,1,4,0,0,10.0,Low,shared device
+T000292,C0041,B0127,D0109,DE,191.54,14,0,0,6,0,-0.11024703846665782,0,5,1,3,0,0,10.0,Low,shared device
+T000293,C0144,B0008,D0163,CN,82.11,5,0,0,4,0,-0.7547116716511887,0,4,1,5,0,0,10.0,Low,shared device
+T000295,C0082,B0107,D0168,MY,139.39,10,0,0,3,0,-0.14378221770409755,0,11,1,6,0,0,10.0,Low,shared device
+T000297,C0128,B0143,D0023,ID,34.72,17,0,0,2,0,-0.8597583818598906,0,9,1,2,0,0,10.0,Low,shared device
+T000307,C0046,B0237,D0127,GB,46.92,7,0,0,2,0,-0.6589587748876043,0,9,1,5,0,0,10.0,Low,shared device
+T000309,C0048,B0224,D0131,SG,63.26,5,0,0,2,0,-0.7574833240909452,0,7,1,5,0,0,10.0,Low,shared device
+T000319,C0141,B0129,D0104,ID,141.92,19,0,0,4,0,-0.5061613875679348,0,9,1,5,0,0,10.0,Low,shared device
+T000326,C0035,B0013,D0111,SG,61.77,18,0,0,3,0,-0.6440245316467826,0,10,1,7,0,0,10.0,Low,shared device
+T000330,C0084,B0238,D0083,ID,206.55,15,0,0,2,0,-0.04721006123943281,0,5,1,7,0,0,10.0,Low,shared device
+T000334,C0125,B0049,D0039,MY,9.49,10,0,0,5,0,-1.0871882465092804,0,12,1,5,0,0,10.0,Low,shared device
+T000335,C0070,B0212,D0081,HK,142.75,14,0,0,3,0,0.0,0,10,1,5,0,0,10.0,Low,shared device
+T000337,C0145,B0040,D0103,SG,65.46,10,0,0,3,0,-0.32157160273081936,0,2,0,8,1,0,10.0,Low,beneficiary concentration
+T000339,C0031,B0183,D0089,US,107.1,8,0,0,2,0,-0.6745,0,7,1,2,0,0,10.0,Low,shared device
+T000341,C0096,B0124,D0034,NL,101.78,20,0,0,2,0,-0.1606418304101279,0,12,1,5,0,0,10.0,Low,shared device
+T000346,C0039,B0153,D0073,MY,68.97,17,0,0,6,0,-0.05486363636363646,0,9,1,7,0,0,10.0,Low,shared device
+T000347,C0149,B0179,D0041,ID,99.51,12,0,0,2,0,-0.1854001295336787,0,10,1,1,0,0,10.0,Low,shared device
+T000352,C0007,B0222,D0015,ID,70.77,11,0,0,3,0,-0.6819524361323703,0,2,0,8,1,0,10.0,Low,beneficiary concentration
+T000354,C0066,B0161,D0117,US,38.13,14,0,0,2,0,-0.5820647103658536,0,6,1,5,0,0,10.0,Low,shared device
+T000365,C0018,B0145,D0037,NL,139.64,15,0,0,6,0,0.0027749380072137754,0,9,1,2,0,0,10.0,Low,shared device
+T000374,C0057,B0211,D0127,ID,240.96,18,0,0,4,0,0.0,0,9,1,3,0,0,10.0,Low,shared device
+T000377,C0111,B0142,D0094,SG,95.21,22,0,0,3,0,-0.7274724591329069,0,8,1,5,0,0,10.0,Low,shared device
+T000387,C0011,B0214,D0051,DE,321.79,12,0,0,4,0,0.0,0,8,1,6,0,0,10.0,Low,shared device
+T000388,C0125,B0021,D0011,CN,29.78,14,0,0,2,0,-0.9337019570459261,0,11,1,2,0,0,10.0,Low,shared device
+T000389,C0134,B0224,D0001,ID,108.51,5,0,0,2,0,-0.1396749952678402,0,14,1,5,0,0,10.0,Low,shared device
+T000400,C0047,B0184,D0072,CN,22.52,5,0,0,3,0,-0.7624619171465725,0,4,1,3,0,0,10.0,Low,shared device
+T000401,C0150,B0079,D0142,ID,99.73,6,0,0,2,0,-0.2925182397733309,0,6,1,7,0,0,10.0,Low,shared device
+T000406,C0076,B0231,D0174,CN,50.45,21,0,0,3,0,-0.7609812162363087,0,9,1,3,0,0,10.0,Low,shared device
+T000407,C0066,B0039,D0052,GB,29.14,19,0,0,2,0,-0.6745,0,7,1,7,0,0,10.0,Low,shared device
+T000408,C0022,B0154,D0056,HK,104.78,19,0,0,4,0,0.0,0,7,1,3,0,0,10.0,Low,shared device
+T000412,C0035,B0038,D0052,HK,34.18,13,0,0,2,0,-0.8223528819893632,0,7,1,3,0,0,10.0,Low,shared device
+T000416,C0102,B0045,D0017,ID,254.5,19,0,0,5,0,0.0,0,6,1,4,0,0,10.0,Low,shared device
+T000417,C0146,B0206,D0121,ID,59.32,9,0,0,3,0,-0.5327327057182706,0,6,1,5,0,0,10.0,Low,shared device
+T000418,C0019,B0132,D0156,MY,158.37,5,0,0,4,0,-0.2407959346186086,0,9,1,5,0,0,10.0,Low,shared device
+T000419,C0045,B0032,D0023,MY,225.95,7,0,0,3,0,-0.1881317181073513,0,9,1,2,0,0,10.0,Low,shared device
+T000422,C0105,B0002,D0149,HK,105.09,7,0,0,5,0,-0.3155480586478414,0,8,1,5,0,0,10.0,Low,shared device
+T000423,C0115,B0240,D0023,SG,9.94,10,0,0,3,0,-0.6745,0,9,1,5,0,0,10.0,Low,shared device
+T000426,C0030,B0258,D0151,ID,53.54,7,0,0,3,0,-0.7744214094590686,0,6,1,3,0,0,10.0,Low,shared device
+T000429,C0004,B0101,D0113,ID,15.5,16,0,0,3,0,-0.8669353571428572,0,10,1,2,0,0,10.0,Low,shared device
+T000431,C0013,B0149,D0003,SG,58.66,13,0,0,4,0,-0.666874241386061,0,9,1,4,0,0,10.0,Low,shared device
+T000433,C0124,B0024,D0054,ID,41.19,21,0,0,3,0,-0.6776177830106402,0,7,1,7,0,0,10.0,Low,shared device
+T000436,C0019,B0139,D0098,NL,200.96,9,0,0,3,0,0.0,0,3,0,8,1,0,10.0,Low,beneficiary concentration
+T000451,C0145,B0050,D0035,HK,76.03,7,0,0,2,0,-0.20568302990897278,0,10,1,5,0,0,10.0,Low,shared device
+T000453,C0075,B0014,D0021,SG,227.27,5,0,0,1,0,-0.1357425399028453,0,6,1,6,0,0,10.0,Low,shared device
+T000455,C0090,B0041,D0130,TH,89.96,16,0,0,2,0,-0.6745,0,5,1,4,0,0,10.0,Low,shared device
+T000458,C0096,B0227,D0140,US,50.72,14,0,0,2,0,-0.6148152446261373,0,8,1,7,0,0,10.0,Low,shared device
+T000459,C0127,B0218,D0130,ID,26.4,7,0,0,2,0,-0.6898131564052575,0,5,1,5,0,0,10.0,Low,shared device
+T000465,C0001,B0137,D0016,CN,114.41,15,0,0,3,0,-0.32604848214285703,0,7,1,3,0,0,10.0,Low,shared device
+T000473,C0065,B0070,D0147,US,42.62,20,0,0,3,0,-0.7009326691548278,0,5,1,4,0,0,10.0,Low,shared device
+T000477,C0128,B0039,D0119,CN,142.54,8,0,0,2,0,-0.6458751102876302,0,5,1,7,0,0,10.0,Low,shared device
+T000481,C0044,B0245,D0008,SG,103.75,21,0,0,4,0,-0.2640979668271804,0,4,1,2,0,0,10.0,Low,shared device
+T000484,C0120,B0207,D0009,GB,166.52,21,0,0,1,0,-0.29845547031963454,0,5,1,6,0,0,10.0,Low,shared device
+T000488,C0080,B0106,D0012,US,149.6,15,0,0,4,0,-0.2387040011826155,0,6,1,5,0,0,10.0,Low,shared device
+T000498,C0057,B0039,D0113,ID,29.81,5,0,0,3,0,-0.8366859064739747,0,10,1,7,0,0,10.0,Low,shared device
+T000504,C0131,B0052,D0111,HK,77.37,11,0,0,4,0,-0.21804030449663628,0,10,1,3,0,0,10.0,Low,shared device
+T000506,C0069,B0223,D0155,SG,111.71,15,0,0,3,0,-0.46833032930023705,0,6,1,7,0,0,10.0,Low,shared device
+T000529,C0138,B0116,D0034,CN,36.14,17,0,0,4,0,-0.6745,0,12,1,3,0,0,10.0,Low,shared device
+T000538,C0018,B0026,D0130,SG,31.65,11,0,0,2,0,-0.8182265836339041,0,5,1,4,0,0,10.0,Low,shared device
+T000545,C0125,B0055,D0148,GB,118.77,16,0,0,5,0,-0.2605257668367634,0,6,1,5,0,0,10.0,Low,shared device
+T000547,C0065,B0256,D0106,NL,151.17,18,0,0,2,0,-0.26018516734890446,0,2,0,10,1,0,10.0,Low,beneficiary concentration
+T000548,C0089,B0098,D0090,DE,90.11,14,0,0,4,0,-0.1958767180094786,0,4,1,3,0,0,10.0,Low,shared device
+T000555,C0148,B0163,D0050,SG,193.55,19,0,0,3,0,-0.9569835489627477,0,5,1,3,0,0,10.0,Low,shared device
+T000558,C0132,B0158,D0088,HK,44.15,4,0,0,6,0,-0.8565317854694997,1,3,0,3,0,0,10.0,Low,odd-hour activity
+T000559,C0119,B0148,D0092,TH,57.09,9,0,1,7,0,-0.12645793793280327,0,3,0,5,0,0,10.0,Low,cross-border
+T000563,C0074,B0003,D0175,HK,142.34,18,0,0,3,0,-0.36672973252447266,0,6,1,4,0,0,10.0,Low,shared device
+T000568,C0038,B0122,D0041,SG,116.33,21,0,0,4,0,-0.6745,0,10,1,7,0,0,10.0,Low,shared device
+T000571,C0143,B0088,D0110,HK,45.13,14,0,0,4,0,-0.8144134089209084,0,6,1,6,0,0,10.0,Low,shared device
+T000577,C0139,B0087,D0089,NL,52.63,20,0,0,2,0,-0.5932888637784296,0,7,1,5,0,0,10.0,Low,shared device
+T000579,C0135,B0080,D0051,ID,36.82,14,0,0,5,0,-0.7619167449559343,0,8,1,6,0,0,10.0,Low,shared device
+T000580,C0016,B0178,D0086,GB,79.39,18,0,0,2,0,-0.4883223976868328,0,9,1,3,0,0,10.0,Low,shared device
+T000583,C0017,B0007,D0144,ID,109.46,17,0,0,4,0,0.0,0,10,1,6,0,0,10.0,Low,shared device
+T000585,C0061,B0189,D0003,ID,139.76,13,0,0,2,0,0.0,0,9,1,4,0,0,10.0,Low,shared device
+T000588,C0015,B0026,D0140,ID,71.71,18,0,0,3,0,-0.03944652265542684,0,8,1,4,0,0,10.0,Low,shared device
+T000590,C0127,B0196,D0077,ID,108.61,20,0,0,2,0,0.007635368844726674,0,4,1,2,0,0,10.0,Low,shared device
+T000591,C0121,B0152,D0082,CN,30.4,9,0,0,3,0,-0.7513297284589161,0,5,1,5,0,0,10.0,Low,shared device
+T000599,C0095,B0125,D0078,ID,123.13,20,0,0,4,0,-0.3098973480662982,0,10,1,5,0,0,10.0,Low,shared device
+T000602,C0117,B0122,D0121,US,237.76,13,0,0,1,0,-0.39893289962825285,0,6,1,7,0,0,10.0,Low,shared device
+T000607,C0049,B0003,D0108,CN,65.75,14,0,0,3,0,-0.6186566558441557,0,8,1,4,0,0,10.0,Low,shared device
+T000627,C0051,B0028,D0021,ID,64.95,9,0,0,2,0,-0.7765525423728815,0,6,1,6,0,0,10.0,Low,shared device
+T000642,C0138,B0026,D0053,ID,80.77,6,0,0,3,0,-0.12677556404657933,0,4,1,4,0,0,10.0,Low,shared device
+T000646,C0050,B0160,D0159,CN,259.19,16,0,0,3,0,0.0,0,5,1,4,0,0,10.0,Low,shared device
+T000647,C0070,B0105,D0131,ID,38.96,5,0,0,3,0,-0.6745000000000001,0,7,1,5,0,0,10.0,Low,shared device
+T000654,C0121,B0042,D0065,US,53.32,17,0,0,3,0,-0.5696024450452569,0,9,1,3,0,0,10.0,Low,shared device
+T000661,C0027,B0192,D0045,NL,232.33,8,0,0,3,0,0.0,0,7,1,7,0,0,10.0,Low,shared device
+T000679,C0079,B0189,D0037,SG,69.03,15,0,0,4,0,-0.6799908565361019,0,9,1,4,0,0,10.0,Low,shared device
+T000680,C0141,B0027,D0081,MY,83.14,13,0,0,3,0,-0.6745,0,10,1,5,0,0,10.0,Low,shared device
+T000681,C0109,B0100,D0079,HK,93.37,22,0,0,1,0,-0.3031738938464399,0,8,1,4,0,0,10.0,Low,shared device
+T000682,C0021,B0069,D0147,ID,23.27,13,0,0,1,0,-0.6745,0,5,1,6,0,0,10.0,Low,shared device
+T000689,C0067,B0016,D0042,ID,79.24,16,0,1,4,0,-0.6745,0,2,0,6,0,0,10.0,Low,cross-border
+T000695,C0014,B0035,D0163,NL,58.79,7,0,0,3,0,-0.8836517615176149,0,4,1,6,0,0,10.0,Low,shared device
+T000708,C0086,B0042,D0067,MY,31.32,20,0,0,2,0,-1.4273075811660716,0,11,1,3,0,0,10.0,Low,shared device
+T000711,C0102,B0020,D0097,HK,77.68,16,0,0,3,0,-0.5509034597440989,0,9,1,3,0,0,10.0,Low,shared device
+T000717,C0078,B0074,D0113,ID,156.28,10,0,0,6,0,-0.06467765786452352,0,10,1,5,0,0,10.0,Low,shared device
+T000735,C0032,B0038,D0128,MY,49.37,20,0,0,3,0,-0.6745,0,6,1,3,0,0,10.0,Low,shared device
+T000737,C0110,B0097,D0104,US,170.18,5,0,0,1,0,0.0,0,9,1,4,0,0,10.0,Low,shared device
+T000742,C0115,B0066,D0073,SG,38.05,9,0,0,2,0,-0.5194824625950454,0,9,1,7,0,0,10.0,Low,shared device
+T000744,C0041,B0008,D0102,ID,52.08,14,0,0,3,0,-1.3622871023559164,0,11,1,5,0,0,10.0,Low,shared device
+T000751,C0145,B0238,D0128,CN,94.79,8,0,0,4,0,0.0,0,6,1,7,0,0,10.0,Low,shared device
+T000752,C0023,B0158,D0041,HK,51.93,16,0,0,6,0,-0.6760188590729967,0,10,1,3,0,0,10.0,Low,shared device
+T000754,C0141,B0121,D0142,MY,44.14,7,0,0,3,0,-0.7861911514945652,0,6,1,4,0,0,10.0,Low,shared device
+T000759,C0020,B0172,D0120,HK,136.24,17,0,0,4,0,-0.13327104297383685,0,4,1,4,0,0,10.0,Low,shared device
+T000764,C0141,B0212,D0057,HK,73.75,20,0,0,2,0,-0.701391792629076,0,4,1,5,0,0,10.0,Low,shared device
+T000769,C0021,B0218,D0148,CN,60.85,17,0,0,3,0,-0.30047447248044856,0,6,1,5,0,0,10.0,Low,shared device
+T000771,C0098,B0215,D0113,ID,67.95,19,0,0,2,0,-0.8763988294314384,0,10,1,3,0,0,10.0,Low,shared device
+T000772,C0148,B0239,D0169,CN,250.22,7,0,0,4,0,-0.530662837385679,0,5,1,3,0,0,10.0,Low,shared device
+T000773,C0001,B0177,D0078,US,117.67,13,0,0,3,0,-0.24751741071428549,0,10,1,6,0,0,10.0,Low,shared device
+T000780,C0128,B0206,D0031,MY,128.11,10,0,0,4,0,-0.6745,0,9,1,5,0,0,10.0,Low,shared device
+T000782,C0096,B0162,D0035,DE,67.91,12,0,0,3,0,-0.46191197415270996,0,10,1,6,0,0,10.0,Low,shared device
+T000783,C0019,B0015,D0134,ID,62.76,6,0,0,3,0,-0.7813570829840739,0,11,1,4,0,0,10.0,Low,shared device
+T000785,C0072,B0166,D0113,ID,231.58,15,0,0,1,0,0.0,0,10,1,3,0,0,10.0,Low,shared device
+T000787,C0005,B0215,D0138,SG,196.54,18,0,0,4,0,-0.023794456443484654,0,8,1,3,0,0,10.0,Low,shared device
+T000788,C0103,B0055,D0073,ID,155.43,15,0,0,4,0,-0.3651267583717167,0,9,1,5,0,0,10.0,Low,shared device
+T000798,C0069,B0258,D0146,SG,71.11,7,0,0,2,0,-0.8099132156667082,0,7,1,3,0,0,10.0,Low,shared device
+T000804,C0138,B0119,D0026,US,91.1,6,0,0,2,0,0.0,0,4,1,4,0,0,10.0,Low,shared device
+T000806,C0118,B0034,D0122,ID,75.72,10,0,0,3,0,-0.6884592844885862,0,8,1,4,0,0,10.0,Low,shared device
+T000807,C0082,B0113,D0179,CN,92.38,14,0,0,5,0,-0.6396884579293086,0,6,1,3,0,0,10.0,Low,shared device
+T000809,C0059,B0204,D0076,CN,69.57,12,0,0,1,0,-0.6745,0,8,1,4,0,0,10.0,Low,shared device
+T000815,C0117,B0168,D0101,ID,365.04,20,0,0,1,0,0.0,0,8,1,4,0,0,10.0,Low,shared device
+T000818,C0016,B0189,D0077,NL,111.94,16,0,0,3,0,0.0,0,4,1,4,0,0,10.0,Low,shared device
+T000829,C0130,B0137,D0133,SG,317.15,10,0,0,3,0,0.0,0,4,1,3,0,0,10.0,Low,shared device
+T000838,C0030,B0011,D0178,ID,95.63,5,0,0,1,0,-0.5691154722302575,0,8,1,4,0,0,10.0,Low,shared device
+T000854,C0036,B0246,D0067,US,106.76,20,0,0,6,0,-0.6745,0,11,1,3,0,0,10.0,Low,shared device
+T000860,C0121,B0105,D0074,ID,102.02,13,0,0,3,0,-0.18347161161396497,0,6,1,5,0,0,10.0,Low,shared device
+T000863,C0019,B0039,D0133,SG,125.06,6,0,0,2,0,-0.42912447611064547,0,4,1,7,0,0,10.0,Low,shared device
+T000864,C0116,B0187,D0002,ID,28.23,16,0,0,3,0,-0.7564242359932088,0,12,1,6,0,0,10.0,Low,shared device
+T000875,C0105,B0181,D0044,CN,174.01,15,0,0,4,0,0.0,0,10,1,2,0,0,10.0,Low,shared device
+T000876,C0076,B0106,D0166,HK,134.44,19,0,0,3,0,-0.19943832086038552,0,5,1,5,0,0,10.0,Low,shared device
+T000881,C0013,B0215,D0016,US,116.11,16,0,0,2,0,-0.28756702721221605,0,7,1,3,0,0,10.0,Low,shared device
+T000883,C0068,B0085,D0174,ID,71.38,16,0,0,5,0,-0.359096153846154,0,9,1,7,0,0,10.0,Low,shared device
+T000885,C0122,B0035,D0075,SG,178.28,10,0,0,4,0,-0.2723060806599994,0,8,1,6,0,0,10.0,Low,shared device
+T000890,C0041,B0006,D0034,HK,139.25,6,0,0,2,0,-0.579694729136164,0,12,1,4,0,0,10.0,Low,shared device
+T000904,C0133,B0034,D0050,DE,264.58,22,0,0,2,0,-0.15231614278442354,0,5,1,4,0,0,10.0,Low,shared device
+T000909,C0056,B0073,D0005,ID,135.92,8,0,0,3,0,-0.29551914406355106,0,6,1,7,0,0,10.0,Low,shared device
+T000913,C0057,B0237,D0167,ID,14.38,7,0,0,3,0,-0.8978275760780167,0,12,1,5,0,0,10.0,Low,shared device
+T000914,C0148,B0236,D0041,ID,135.1,8,0,0,4,0,-1.3966949587329909,0,10,1,4,0,0,10.0,Low,shared device
+T000924,C0022,B0159,D0002,SG,47.03,11,0,0,1,0,-0.6745,0,12,1,3,0,0,10.0,Low,shared device
+T000925,C0038,B0194,D0078,ID,149.96,17,0,0,1,0,-0.13608473771659146,0,10,1,5,0,0,10.0,Low,shared device
+T000926,C0142,B0067,D0141,US,98.67,5,0,0,1,0,-1.37466295764537,0,6,1,5,0,0,10.0,Low,shared device
+T000928,C0046,B0162,D0038,ID,44.05,17,0,0,1,0,-0.6900412251123956,0,8,1,6,0,0,10.0,Low,shared device
+T000930,C0087,B0084,D0165,NL,45.43,20,0,0,2,0,-1.214267024349979,0,6,1,7,0,0,10.0,Low,shared device
+T000932,C0105,B0253,D0153,SG,26.69,9,0,0,2,0,-0.6745,0,6,1,5,0,0,10.0,Low,shared device
+T000940,C0077,B0104,D0156,CN,90.91,12,0,0,4,0,-0.12287180034129705,0,9,1,6,0,0,10.0,Low,shared device
+T000946,C0018,B0115,D0137,US,40.37,10,0,0,2,0,-0.7519321742560864,0,9,1,4,0,0,10.0,Low,shared device
+T000947,C0147,B0046,D0108,ID,199.61,18,0,0,3,0,-0.14133840909090908,0,8,1,6,0,0,10.0,Low,shared device
+T000954,C0065,B0142,D0131,ID,55.64,7,0,0,3,0,-0.6480673308451722,0,7,1,5,0,0,10.0,Low,shared device
+T000957,C0061,B0115,D0011,NL,71.82,12,0,0,3,0,-0.46551737098740353,0,11,1,4,0,0,10.0,Low,shared device
+T000959,C0146,B0211,D0034,GB,36.11,10,0,0,3,0,-0.7510750348675035,0,12,1,3,0,0,10.0,Low,shared device
+T000963,C0127,B0105,D0009,ID,30.01,11,0,0,2,0,-0.6591868435947426,0,5,1,5,0,0,10.0,Low,shared device
+T000977,C0015,B0028,D0091,CN,33.23,10,0,0,1,0,-0.5864383034773446,0,9,1,6,0,0,10.0,Low,shared device
+T000980,C0085,B0119,D0071,ID,92.23,12,0,0,3,0,-0.6745,0,8,1,4,0,0,10.0,Low,shared device
+T000984,C0098,B0168,D0164,SG,108.16,10,0,0,3,0,-0.46409045302523594,0,7,1,4,0,0,10.0,Low,shared device
+T000988,C0048,B0067,D0132,HK,205.02,6,0,0,2,0,0.0,0,6,1,5,0,0,10.0,Low,shared device
+T000990,C0119,B0152,D0122,SG,49.32,14,0,0,2,0,-0.3952891767119775,0,8,1,5,0,0,10.0,Low,shared device
+T000996,C0094,B0212,D0143,CN,35.37,19,0,0,1,0,-0.6745,0,11,1,5,0,0,10.0,Low,shared device
+T000997,C0079,B0076,D0082,CN,69.72,6,0,0,4,0,-0.6690091434638981,0,5,1,5,0,0,10.0,Low,shared device
+T001015,C0078,B0030,D0107,ID,20.7,18,0,0,4,0,-0.9046198851894375,0,4,1,6,0,0,10.0,Low,shared device
+T001021,C0009,B0245,D0093,SG,98.72,7,0,0,3,0,-0.24965215179570655,0,4,1,2,0,0,10.0,Low,shared device
+T001024,C0127,B0110,D0003,MY,69.42,5,0,0,2,0,-0.32484252562731913,0,9,1,3,0,0,10.0,Low,shared device
+T001026,C0009,B0161,D0176,GB,79.13,5,0,0,1,0,-0.5185188727235731,0,7,1,5,0,0,10.0,Low,shared device
+T001030,C0051,B0255,D0054,GB,248.88,6,0,0,4,0,-0.1842355932203391,0,7,1,5,0,0,10.0,Low,shared device
+T001031,C0074,B0164,D0045,ID,94.15,13,0,0,4,0,-0.8148774644974494,0,7,1,3,0,0,10.0,Low,shared device
+T001033,C0110,B0244,D0038,HK,66.41,5,0,0,3,0,-0.6745,0,8,1,6,0,0,10.0,Low,shared device
+T001035,C0010,B0153,D0043,GB,52.23,12,0,0,1,0,0.0,0,7,1,7,0,0,10.0,Low,shared device
+T001036,C0112,B0205,D0109,CN,79.99,10,0,0,3,0,-0.725735276402088,0,5,1,2,0,0,10.0,Low,shared device
+T001045,C0107,B0185,D0165,ID,115.14,5,0,0,3,0,0.0,0,6,1,3,0,0,10.0,Low,shared device
+T001050,C0018,B0110,D0089,SG,103.8,11,0,0,1,0,-0.26970116659152377,0,7,1,3,0,0,10.0,Low,shared device
+T001061,C0116,B0007,D0075,SG,74.42,21,0,0,2,0,-0.6172268675721562,0,8,1,6,0,0,10.0,Low,shared device
+T001063,C0022,B0009,D0156,SG,75.28,7,0,0,1,0,-0.34454978354978355,0,9,1,2,0,0,10.0,Low,shared device
+T001066,C0059,B0025,D0135,ID,77.51,12,0,0,3,0,-0.03617699642431375,0,8,1,4,0,0,10.0,Low,shared device
+T001067,C0139,B0177,D0097,SG,42.38,11,0,0,1,0,-0.6597756166754821,0,9,1,6,0,0,10.0,Low,shared device
+T001068,C0097,B0189,D0047,CN,191.18,22,0,0,3,0,-0.6590756879479182,0,6,1,4,0,0,10.0,Low,shared device
+T001074,C0079,B0120,D0159,ID,107.98,6,0,0,2,0,-0.06008111137328916,0,5,1,5,0,0,10.0,Low,shared device
+T001076,C0025,B0111,D0039,ID,64.2,15,0,0,2,0,-0.47525820916114786,0,12,1,5,0,0,10.0,Low,shared device
+T001085,C0031,B0177,D0073,CN,390.55,6,0,0,3,0,-0.01409576856649398,0,9,1,6,0,0,10.0,Low,shared device
+T001096,C0013,B0208,D0003,ID,125.35,10,0,0,1,0,-0.22656095830070475,0,9,1,3,0,0,10.0,Low,shared device
+T001099,C0007,B0058,D0001,CN,93.54,18,0,0,2,0,-0.5163992939527863,0,14,1,4,0,0,10.0,Low,shared device
+T001107,C0037,B0085,D0001,TH,124.74,22,0,0,5,0,-0.10811657559198545,0,14,1,7,0,0,10.0,Low,shared device
+T001109,C0142,B0080,D0011,MY,127.59,5,0,0,4,0,-0.6745,0,11,1,6,0,0,10.0,Low,shared device
+T001130,C0098,B0039,D0022,GB,77.32,22,0,0,2,0,-0.780320006080876,0,8,1,7,0,0,10.0,Low,shared device
+T001131,C0062,B0017,D0069,CN,79.17,12,0,0,1,0,-0.49559463070607995,0,6,1,4,0,0,10.0,Low,shared device
+T001133,C0120,B0070,D0011,CN,224.82,5,0,0,3,0,-0.011161589041095822,0,11,1,4,0,0,10.0,Low,shared device
+T001138,C0055,B0213,D0024,ID,119.15,11,0,0,2,0,0.0,0,8,1,3,0,0,10.0,Low,shared device
+T001139,C0112,B0012,D0095,ID,126.81,16,0,0,4,0,-0.3030329607816892,0,7,1,4,0,0,10.0,Low,shared device
+T001140,C0081,B0025,D0149,ID,126.43,20,0,0,3,0,-1.0443630502855035,0,8,1,4,0,0,10.0,Low,shared device
+T001143,C0140,B0142,D0016,DE,65.06,13,0,0,4,0,-0.12197823005265297,0,7,1,5,0,0,10.0,Low,shared device
+T001144,C0127,B0192,D0003,ID,10.89,10,0,0,1,0,-0.8213960128293819,0,9,1,7,0,0,10.0,Low,shared device
+T001147,C0080,B0085,D0074,SG,89.12,10,0,0,2,0,-0.5067225288262539,0,6,1,7,0,0,10.0,Low,shared device
+T001151,C0056,B0140,D0079,ID,102.45,11,0,0,4,0,-0.6186496815286623,0,8,1,4,0,0,10.0,Low,shared device
+T001156,C0089,B0096,D0081,SG,95.46,9,0,0,4,0,-0.11036546208530808,0,10,1,3,0,0,10.0,Low,shared device
+T001159,C0058,B0162,D0031,ID,157.84,10,0,0,3,0,-0.5151429787892863,0,9,1,6,0,0,10.0,Low,shared device
+T001168,C0060,B0046,D0028,SG,261.11,12,0,0,1,0,0.0,0,6,1,6,0,0,10.0,Low,shared device
+T001172,C0095,B0214,D0151,CN,104.41,10,0,0,6,0,-0.5889391160220994,0,6,1,6,0,0,10.0,Low,shared device
+T001174,C0027,B0104,D0060,MY,13.22,0,0,0,1,0,-1.083422732937468,1,3,0,6,0,0,10.0,Low,odd-hour activity
+T001180,C0004,B0170,D0014,NL,78.04,12,0,0,3,0,-0.5497682142857142,0,3,0,9,1,0,10.0,Low,beneficiary concentration
+T001188,C0090,B0253,D0124,CN,77.82,15,0,0,3,0,-0.7369023014784332,0,5,1,5,0,0,10.0,Low,shared device
+T001190,C0002,B0227,D0163,CN,54.6,16,0,0,1,0,-0.8214702434007541,0,4,1,7,0,0,10.0,Low,shared device
+T001199,C0121,B0066,D0051,TH,68.96,20,0,0,1,0,-0.4455965675326202,0,8,1,7,0,0,10.0,Low,shared device
+T001084,C0084,B0204,D0042,SG,670.97,15,0,0,1,0,2.0379346502030224,0,2,0,4,0,0,6.4,Low,no major rule triggered
+T001176,C0051,B0257,D0123,DE,644.69,5,0,0,3,0,1.090406779661017,0,1,0,5,0,0,3.4,Low,no major rule triggered
+T000016,C0118,B0030,D0088,CN,306.75,9,0,0,1,0,0.9321505121938537,0,3,0,6,0,0,2.9,Low,no major rule triggered
+T000521,C0054,B0023,D0059,ID,305.28,18,0,0,1,0,0.6745,0,3,0,3,0,0,2.1,Low,no major rule triggered
+T001122,C0013,B0010,D0060,ID,262.98,16,0,0,2,0,0.682125758613939,0,3,0,4,0,0,2.1,Low,no major rule triggered
+T001198,C0148,B0075,D0100,ID,410.42,9,0,0,6,0,0.6745,0,3,0,6,0,0,2.1,Low,no major rule triggered
+T000101,C0125,B0197,D0126,CN,212.12,14,0,0,4,0,0.44563219873268656,0,2,0,4,0,0,1.4,Low,no major rule triggered
+T000411,C0027,B0202,D0092,TH,324.45,17,0,0,6,0,0.4555013562055567,0,3,0,7,0,0,1.4,Low,no major rule triggered
+T001105,C0046,B0238,D0004,SG,145.82,15,0,0,4,0,0.4121402938342969,0,2,0,7,0,0,1.3,Low,no major rule triggered
+T000836,C0117,B0220,D0103,SG,375.23,22,0,0,5,0,0.03193845260223047,0,2,0,6,0,0,0.1,Low,no major rule triggered
+T000079,C0085,B0003,D0014,CN,104.25,13,0,0,5,0,-0.5777172615494808,0,3,0,4,0,0,0.0,Low,no major rule triggered
+T000176,C0070,B0249,D0059,ID,40.71,22,0,0,3,0,-0.6631272762308507,0,3,0,5,0,0,0.0,Low,no major rule triggered
+T000184,C0105,B0233,D0118,ID,76.19,19,0,0,3,0,-0.4478658023350529,0,3,0,5,0,0,0.0,Low,no major rule triggered
+T000343,C0094,B0024,D0092,US,47.85,16,0,0,3,0,0.0,0,3,0,7,0,0,0.0,Low,no major rule triggered
+T000375,C0133,B0039,D0098,SG,300.07,22,0,0,4,0,0.0,0,3,0,7,0,0,0.0,Low,no major rule triggered
+T000434,C0020,B0229,D0098,MY,152.93,10,0,0,1,0,0.0,0,3,0,4,0,0,0.0,Low,no major rule triggered
+T000575,C0002,B0200,D0004,SG,232.23,15,0,0,2,0,0.0,0,2,0,2,0,0,0.0,Low,no major rule triggered
+T000746,C0055,B0031,D0099,SG,74.67,22,0,0,1,0,-0.5977636979477983,0,3,0,4,0,0,0.0,Low,no major rule triggered
