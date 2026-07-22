@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=75", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "financial-cyber-fraud-lab"
+version = "0.1.0"
+description = "Explainable cyber-enabled financial fraud analytics"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{name = "Garland Rolando Ng"}]
+dependencies = [
+    "pandas>=2.2,<3.0",
+    "numpy>=1.26,<3.0",
+    "streamlit>=1.46,<2.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.3,<9.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"
